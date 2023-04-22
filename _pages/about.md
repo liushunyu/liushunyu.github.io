@@ -60,7 +60,7 @@ Awards & Honors
 ### Scholarship
   - National Scholarship, Ministry of Education of the People's Republic of China, 2018.
   - Outstanding Undergraduate Student Scholarship, Sun Yat-sen University, 2015-2018.
-  - Outstanding PhD Student Scholarship, Zhejiang University, 2021.
+  - Outstanding Ph.D. Student Scholarship, Zhejiang University, 2021.
   - Outstanding Graduate Student Award, Zhejiang University, 2019-2021.
 
 ### Competition
