@@ -13,9 +13,7 @@ tags:
 
 
 
-**标签：**
-
-Dec-HDRQNs; CERTs; value-based; off-policy; model-free; discrete action space; continuous state space; cooperative task; decentralized approach; multi-agent; multi-task; transfer learning; distillation;
+**标签：** Dec-HDRQNs; CERTs; value-based; off-policy; model-free; discrete action space; continuous state space; cooperative task; decentralized approach; multi-agent; multi-task; transfer learning; distillation;
 
 
 
