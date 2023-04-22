@@ -18,8 +18,8 @@ I am currently pursuing the Ph.D. degree in the [Visual Intelligence and Pattern
 Selected Publications
 ======
 
-- Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA)
-  **Shunyu Liu**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.
+- Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA) \\
+  **Shunyu Liu**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
   AAAI Conference on Artificial Intelligence (AAAI) 2023 **Oral** 
 
 - **Shunyu Liu**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song. Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning, arXiv preprint arXiv:2207.03902, 2022. [[arXiv]](https://arxiv.org/abs/2207.03902) [[Code]](https://github.com/liushunyu/OPT)
