@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 {% include group-by-array collection=site.posts field="tags" %}
+Tags: 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
   <a href="https://liushunyu.github.io/tags/#{{ tag }}" target="_blank">{{ tag }} | </a>
