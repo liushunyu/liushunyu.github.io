@@ -55,3 +55,11 @@ Competition:
 - Ranked 5th in "Learning To Run a Power Network Challenge - Energies of the Future and Carbon Neutrality", WCCI, 2022.
 
 - Ranked 3rd in "The Fourth Power System Dispatching Artificial Intelligence Application Competition", China Southern Power Grid, 2023.
+
+
+Service
+======
+
+- Journal Reviewer: 
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - Information Sciences (INS)
