@@ -53,26 +53,26 @@ Selected Publications
 Awards & Honors
 ======
 
-- Scholarship:
-  - National Scholarship, Ministry of Education of the People's Republic of China, 2018.
-  - Outstanding Undergraduate Student Scholarship, Sun Yat-sen University, 2015-2018.
-  - Outstanding PhD Student Scholarship, Zhejiang University, 2021.
-  - Outstanding Graduate Student Award, Zhejiang University, 2019-2021.
+Scholarship:
+- National Scholarship, Ministry of Education of the People's Republic of China, 2018.
+- Outstanding Undergraduate Student Scholarship, Sun Yat-sen University, 2015-2018.
+- Outstanding PhD Student Scholarship, Zhejiang University, 2021.
+- Outstanding Graduate Student Award, Zhejiang University, 2019-2021.
 
-- Competition:
-  - Meritorious Winner in "Mathematical Contest in Modeling", COMAP, 2018.
-  - Ranked 9th in "Advanced Power System Artificial Intelligence Application Competition", State Grid Corporation of China, 2022
-  - Ranked 5th in "Learning To Run a Power Network Challenge - Energies of the Future and Carbon Neutrality", WCCI, 2022.
-  - Ranked 3rd in "The Fourth Power System Dispatching Artificial Intelligence Application Competition", China Southern Power Grid, 2023.
+Competition:
+- Meritorious Winner in "Mathematical Contest in Modeling", COMAP, 2018.
+- Ranked 9th in "Advanced Power System Artificial Intelligence Application Competition", State Grid Corporation of China, 2022
+- Ranked 5th in "Learning To Run a Power Network Challenge - Energies of the Future and Carbon Neutrality", WCCI, 2022.
+- Ranked 3rd in "The Fourth Power System Dispatching Artificial Intelligence Application Competition", China Southern Power Grid, 2023.
 
 
 Service
 ======
 
-- Conference Reviewer: 
-  - International Joint Conference on Artificial Intelligence (IJCAI)
-  - AAAI Conference on Artificial Intelligence (AAAI)
+Conference Reviewer: 
+- International Joint Conference on Artificial Intelligence (IJCAI)
+- AAAI Conference on Artificial Intelligence (AAAI)
 
-- Journal Reviewer: 
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
-  - Information Sciences (INS)
+Journal Reviewer: 
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- Information Sciences (INS)
