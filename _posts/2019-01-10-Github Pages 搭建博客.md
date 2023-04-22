@@ -1,5 +1,4 @@
 ---
-layout:     post
 title:      "Github Pages 搭建博客"
 permalink:  /posts/Github Pages 搭建博客/
 subtitle:    "Github Pages + Jekyll 搭建博客"
@@ -8,7 +7,6 @@ tags:
     - github
     - jekyll
     - 环境配置
-
 ---
 
 
