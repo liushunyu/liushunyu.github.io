@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Student \| Visual Intelligence and Pattern Analysis Lab \| Zhejiang University
+**Ph.D. Student** \| [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn/) \| **Zhejiang University](https://www.zju.edu.cn/)**
 
 Biography
 ======
 
-I am currently pursuing the Ph.D. degree in the [Visual Intelligence and Pattern Analysis (VIPA)](https://www.vipazoo.cn/) Lab @ [Zhejiang University](https://www.zju.edu.cn/), advised by Prof. [Mingli Song](https://person.zju.edu.cn/msong) and Prof. [Chun Chen](https://person.zju.edu.cn/chenc). I received the B.Eng. degree from the School of Data and Computer Science, [Sun Yat-sen University](https://www.sysu.edu.cn/), in 2019. My current research interests include reinforcement learning, multi-agent systems, and power systems. Please feel free to contact me if you are interested in my research :)
+I am currently pursuing the Ph.D. degree in the [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn/) @ [Zhejiang University](https://www.zju.edu.cn/), advised by Prof. [Mingli Song](https://person.zju.edu.cn/msong) and Prof. [Chun Chen](https://person.zju.edu.cn/chenc). I received the B.Eng. degree from the School of Data and Computer Science, [Sun Yat-sen University](https://www.sysu.edu.cn/), in 2019. My current research interests include reinforcement learning, multi-agent systems, and power systems. Please feel free to contact me if you are interested in my research :)
 
 Selected Publications
 ======
 
-- **Shunyu Liu**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song. Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition, AAAI Conference on Artificial Intelligence (AAAI), 2023. (Oral) [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA)
+- Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA)
+  **Shunyu Liu**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.
+  AAAI Conference on Artificial Intelligence (AAAI) 2023 **Oral** 
 
 - **Shunyu Liu**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song. Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning, arXiv preprint arXiv:2207.03902, 2022. [[arXiv]](https://arxiv.org/abs/2207.03902) [[Code]](https://github.com/liushunyu/OPT)
 
@@ -52,6 +54,10 @@ Awards & Honors
 
 Service
 ======
+
+- Conference Reviewer: 
+  - International Joint Conference on Artificial Intelligence (IJCAI)
+  - AAAI Conference on Artificial Intelligence (AAAI)
 
 - Journal Reviewer: 
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
