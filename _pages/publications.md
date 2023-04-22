@@ -13,9 +13,13 @@ author_profile: true
   > **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.03902, 2022. 
 
-> **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** [[arXiv]](https://arxiv.org/abs/2207.01955)\\
+> **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** [[arXiv]](https://arxiv.org/abs/2207.01955) \\
   > **<u>Shunyu Liu</u>**, Yu, Na, Jie Song, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.01955, 2022.
+
+> **Message-passing Selection: Towards Interpretable GNNs for Graph Classification** [[Paper]](https://openreview.net/pdf?id=99Go96dla5y) \\
+  > Wenda Li, Kaixuan Chen, **<u>Shunyu Liu</u>**, Wenjie Huang, Haofei Zhang, Yingjie Tian, Yun Su, Mingli Song.\\
+  > International Conference on Learning Representations (ICLR) Tiny Paper, 2023.
 
 > **Distribution Knowledge Embedding for Graph Pooling** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9896198/) [[arXiv]](https://arxiv.org/abs/2109.14333) [[Code]](https://github.com/chenchkx/DKEPool) \\
   > Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
