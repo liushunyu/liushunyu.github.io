@@ -13,7 +13,7 @@ redirect_from:
 Tags: 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <a href="https://liushunyu.github.io/tags/#{{ tag }}" target="_blank">{{ tag }} | </a>
+  <a href="https://liushunyu.github.io/tags/#{{ tag }}" target="_blank"> [ {{ tag }} ] | </a>
 {% endfor %}
 
 {% capture written_year %}'None'{% endcapture %}
