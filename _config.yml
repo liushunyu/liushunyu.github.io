@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shunyu Liu / 刘顺宇"
 title_separator          : "-"
 name                     : &name "Shunyu Liu"
-description              : &description "PhD Student @ ZJU"
+description              : &description "Ph.D. Student @ ZJU"
 url                      : https://liushunyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liushunyu/liushunyu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shunyu Liu / 刘顺宇"
   avatar           : "liushunyu.jpg"
-  bio              : "PhD Student @ ZJU"
+  bio              : "Ph.D. Student @ ZJU"
   location         : "Zhejiang University"
   employer         :
   pubmed           : 
