@@ -26,9 +26,13 @@ Selected Publications
   > **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.03902, 2022. 
 
-> **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** [[arXiv]](https://arxiv.org/abs/2207.01955)\\
+> **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** [[arXiv]](https://arxiv.org/abs/2207.01955) \\
   > **<u>Shunyu Liu</u>**, Yu, Na, Jie Song, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.01955, 2022.
+
+> **Message-passing Selection: Towards Interpretable GNNs for Graph Classification** [[Paper]](https://openreview.net/pdf?id=99Go96dla5y) \\
+  > Wenda Li, Kaixuan Chen, **<u>Shunyu Liu</u>**, Wenjie Huang, Haofei Zhang, Yingjie Tian, Yun Su, Mingli Song.\\
+  > International Conference on Learning Representations (ICLR) Tiny Paper, 2023.
 
 > **Distribution Knowledge Embedding for Graph Pooling** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9896198/) [[arXiv]](https://arxiv.org/abs/2109.14333) [[Code]](https://github.com/chenchkx/DKEPool) \\
   > Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
@@ -53,13 +57,13 @@ Selected Publications
 Awards & Honors
 ======
 
-- Scholarship:
+### Scholarship
   - National Scholarship, Ministry of Education of the People's Republic of China, 2018.
   - Outstanding Undergraduate Student Scholarship, Sun Yat-sen University, 2015-2018.
   - Outstanding PhD Student Scholarship, Zhejiang University, 2021.
   - Outstanding Graduate Student Award, Zhejiang University, 2019-2021.
 
-- Competition:
+### Competition
   - Meritorious Winner in "Mathematical Contest in Modeling", COMAP, 2018.
   - Ranked 9th in "Advanced Power System Artificial Intelligence Application Competition", State Grid Corporation of China, 2022
   - Ranked 5th in "Learning To Run a Power Network Challenge - Energies of the Future and Carbon Neutrality", WCCI, 2022.
@@ -69,10 +73,11 @@ Awards & Honors
 Service
 ======
 
-- Conference Reviewer: 
+### Conference Reviewer: 
   - International Joint Conference on Artificial Intelligence (IJCAI)
   - AAAI Conference on Artificial Intelligence (AAAI)
+  - International Conference on Learning Representations (ICLR)
 
-- Journal Reviewer: 
+### Journal Reviewer: 
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - Information Sciences (INS)
