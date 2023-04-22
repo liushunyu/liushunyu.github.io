@@ -19,8 +19,8 @@ Selected Publications
 ======
 
 > **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition**. [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA) \\
-  ***Shunyu Liu**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.*\\
-  *AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.*
+  **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
+  AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
 > **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** [[arXiv]](https://arxiv.org/abs/2207.03902) [[Code]](https://github.com/liushunyu/OPT) \\
   > **Shunyu Liu**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
