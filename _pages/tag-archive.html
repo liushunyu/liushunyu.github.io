@@ -10,7 +10,7 @@ author_profile: true
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <a id="{{ tag | slugify }}" class="archive__subtitle" href="https://liushunyu.github.io/tags/#{{ tag }}">{{ tag }} | </a>
+  <a href="https://liushunyu.github.io/tags/#{{ tag }}">{{ tag }} | </a>
 {% endfor %}
 
 {% for tag in group_names %}
