@@ -39,7 +39,7 @@ Selected Publications
   > International Joint Conference on Neural Networks (IJCNN), 2022, **Oral**.
 
 > **A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges** [[arXiv]](https://arxiv.org/abs/2211.06665) [[Code]](https://github.com/Plankson/awesome-explainable-reinforcement-learning) \\
-  > Yunpeng Qing, **<u>Shunyu Liu</u>**, Jie Song, Mingli Song.
+  > Yunpeng Qing, **<u>Shunyu Liu</u>**, Jie Song, Mingli Song. \\
   > arXiv preprint arXiv:2211.06665, 2022. 
 
 > **Imbalanced Sample Generation and Evaluation for Power System Transient Stability Using CTGAN** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-93247-3_55) [[arXiv]](https://arxiv.org/abs/2112.08836) \\
