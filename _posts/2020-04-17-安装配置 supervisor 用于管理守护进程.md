@@ -1,12 +1,9 @@
 ---
-layout:     post
+
 title:      "安装配置 supervisor 用于管理守护进程"
 subtitle:    "安装配置 supervisor 用于管理守护进程"
 date:       2020-04-17 09:00:00
-author:     Shunyu
-header-img: img/post-bg-2015.jpg
-header-mask: 0.1
-catalog: true
+
 tags:
     - linux
     - supervisor

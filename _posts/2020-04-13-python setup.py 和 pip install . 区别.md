@@ -1,12 +1,9 @@
 ---
-layout:     post
+
 title:      "python setup.py 和 pip install . 区别"
 subtitle:    "本地包安装中 python setup.py 和 pip install . 区别"
 date:       2020-04-13 09:00:00
-author:     Shunyu
-header-img: img/post-bg-2015.jpg
-header-mask: 0.1
-catalog: true
+
 tags:
     - python
     - pip

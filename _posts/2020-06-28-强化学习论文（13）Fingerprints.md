@@ -1,13 +1,10 @@
 ---
 
-layout:     post
+
 title:      "强化学习论文（13）Fingerprints"
 subtitle:   "Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning"
 date:       2020-06-28 10:00:00
-author:     Shunyu
-header-img: img/post-bg-2015.jpg
-header-mask: 0.1
-catalog: true
+
 mathjax: true
 tags:
     - 强化学习
@@ -56,19 +53,19 @@ Fingerprints; value-based; off-policy; model-free; discrete action space; contin
 
 - 注意到其中的 $\pi_{-a}(\mathbf{u}_{-a} \mid s)$ 便是非平稳部分，它会随着其他智能体的策略改变而改变。
 
-<img width="70%" src="/img/in-post/2020-06-28-强化学习论文（13）Fingerprints.assets/image-20200628215031656.png"/>
+<img width="70%" src="/images/in-post/2020-06-28-强化学习论文（13）Fingerprints.assets/image-20200628215031656.png"/>
 
 
 
 2、因此我们在每个时刻存储经验到经验池中的时候，加多一项额外项 $\pi_{-a}(\mathbf{u}_{-a} \mid s)$，即每个时刻 $t_c$ 存储如下五元组
 
-<img width="30%" src="/img/in-post/2020-06-28-强化学习论文（13）Fingerprints.assets/image-20200628215428817.png"/>
+<img width="30%" src="/images/in-post/2020-06-28-强化学习论文（13）Fingerprints.assets/image-20200628215428817.png"/>
 
 
 
 3、在时刻 $t_r$ 进行采样训练的时候，我们进行基于 off-environment 的 Importance sampling。
 
-<img width="70%" src="/img/in-post/2020-06-28-强化学习论文（13）Fingerprints.assets/image-20200628215527127.png"/>
+<img width="70%" src="/images/in-post/2020-06-28-强化学习论文（13）Fingerprints.assets/image-20200628215527127.png"/>
 
 
 
@@ -76,7 +73,7 @@ Fingerprints; value-based; off-policy; model-free; discrete action space; contin
 
 1、考虑一个 augmented game 定义如下
 
-<img width="70%" src="/img/in-post/2020-06-28-强化学习论文（13）Fingerprints.assets/image-20200628220024398.png"/>
+<img width="70%" src="/images/in-post/2020-06-28-强化学习论文（13）Fingerprints.assets/image-20200628220024398.png"/>
 
 
 
@@ -84,7 +81,7 @@ Fingerprints; value-based; off-policy; model-free; discrete action space; contin
 
 - 其中将式（5）代入式（6）得到式（7）
 
-<img width="70%" src="/img/in-post/2020-06-28-强化学习论文（13）Fingerprints.assets/image-20200628220121133.png"/>
+<img width="70%" src="/images/in-post/2020-06-28-强化学习论文（13）Fingerprints.assets/image-20200628220121133.png"/>
 
 
 

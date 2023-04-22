@@ -1,12 +1,9 @@
 ---
-layout:     post
+
 title:      "强化学习思考（8）Actor-Critic 方法"
 subtitle:    "Actor-Critic 方法"
 date:       2020-04-21 09:00:00
-author:     Shunyu
-header-img: img/post-bg-2015.jpg
-header-mask: 0.1
-catalog: true
+
 mathjax: true
 tags:
     - 强化学习
@@ -310,7 +307,7 @@ $$
 
 3、synchronized parallel actor-critic & asynchronous parallel actor-critic
 
-<img width="480" src="/img/in-post/2020-04-21-强化学习思考（8）Actor-Critic 方法.assets/image-20190820121007989.png"/>
+<img width="480" src="/images/in-post/2020-04-21-强化学习思考（8）Actor-Critic 方法.assets/image-20190820121007989.png"/>
 
 - step 1：每个 worker 都会 copy 全局参数
 
@@ -346,7 +343,7 @@ $$
 
 另外的角度：$\gamma$ 改变了 MDP（添加了终止状态），因为 state value function 本来是对总收益求期望，使用了 discount factors 可以认为有 $\gamma$ 的概率获得原先的总收益，$1-\gamma$ 的概率进入终止状态不获得收益。
 
-<img width="480" src="/img/in-post/2020-04-21-强化学习思考（8）Actor-Critic 方法.assets/image-20200421210203987.png"/>
+<img width="480" src="/images/in-post/2020-04-21-强化学习思考（8）Actor-Critic 方法.assets/image-20200421210203987.png"/>
 
 
 

@@ -1,12 +1,9 @@
 ---
-layout:     post
+
 title:      "强化学习思考（11）Advanced Policy Gradient"
 subtitle:    "Advanced Policy Gradient"
 date:       2020-04-23 09:00:00
-author:     Shunyu
-header-img: img/post-bg-2015.jpg
-header-mask: 0.1
-catalog: true
+
 mathjax: true
 tags:
     - 强化学习

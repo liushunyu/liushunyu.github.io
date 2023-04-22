@@ -1,12 +1,9 @@
 ---
-layout:     post
+
 title:      "ubuntu 安装 nvidia 显卡驱动"
 subtitle:    "ubuntu 安装 nvidia 显卡驱动"
 date:       2020-04-16 09:00:00
-author:     Shunyu
-header-img: img/post-bg-2015.jpg
-header-mask: 0.1
-catalog: true
+
 tags:
     - linux
     - ubuntu

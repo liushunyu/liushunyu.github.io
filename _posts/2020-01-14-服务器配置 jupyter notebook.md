@@ -1,12 +1,7 @@
 ---
-layout:      post
 title:       "服务器配置 jupyter notebook"
 subtitle:    "linux 服务器配置 jupyter notebook 或 jupyter lab"
 date:        2020-01-14 09:00:00
-author:      Shunyu
-header-img:  img/post-bg-2015.jpg
-header-mask: 0.1
-catalog:     true
 tags:
     - linux
     - jupyter

@@ -1,12 +1,7 @@
 ---
-layout:     post
 title:      "OpenAI Gym 库使用小技巧"
 subtitle:   "OpenAI Gym 库使用小技巧"
 date:       2020-08-08 10:00:00
-author:     Shunyu
-header-img: img/post-bg-2015.jpg
-header-mask: 0.1
-catalog: true
 tags:
     - 强化学习
     - python

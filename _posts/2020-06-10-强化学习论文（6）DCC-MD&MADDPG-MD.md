@@ -1,13 +1,10 @@
 ---
 
-layout:     post
+
 title:      "强化学习论文（6）DCC-MD&MADDPG-MD"
 subtitle:   "Message-Dropout: An Efficient Training Method for Multi-Agent Deep Reinforcement Learning"
 date:       2020-06-10 10:00:00
-author:     Shunyu
-header-img: img/post-bg-2015.jpg
-header-mask: 0.1
-catalog: true
+
 mathjax: true
 tags:
     - 强化学习
@@ -54,7 +51,7 @@ off-policy; model-free; communication; continuous communication channel; continu
 
 DCC-MD 框架图如下
 
-<img width="100%" src="/img/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610191641446.png"/>
+<img width="100%" src="/images/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610191641446.png"/>
 
 
 
@@ -63,7 +60,7 @@ DCC-MD 框架图如下
 - 定义智能体 $i$ 接收到的信息 $m^i = (m^{i,1},...,m^{i,i-1},m^{i,i+1},...,m^{i,N})$，其中 $m^{i,j}$ 为智能体 $i$ 从智能体 $j$ 接收到的信息。
 - 损失函数定义如下：
 
-<img width="80%" src="/img/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610190517416.png"/>
+<img width="80%" src="/images/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610190517416.png"/>
 
 
 
@@ -79,15 +76,15 @@ DCC-MD 框架图如下
 
 - 损失函数定义如下，注意作用于 $m_{j}$ 和 $m_{j+1}$ 的 $b_{j,k}$  需要保持一致
 
-<img width="80%" src="/img/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610192114524.png"/>
+<img width="80%" src="/images/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610192114524.png"/>
 
-<img width="80%" src="/img/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610192143125.png"/>
+<img width="80%" src="/images/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610192143125.png"/>
 
-<img width="20%" src="/img/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610192210603.png"/>
+<img width="20%" src="/images/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610192210603.png"/>
 
 - 举个三个智能体的例子，其 Q 网络的输入共有四种可能
 
-<img width="70%" src="/img/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610192316847.png"/>
+<img width="70%" src="/images/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610192316847.png"/>
 
 
 
@@ -99,7 +96,7 @@ DCC-MD 框架图如下
 
 DCC-MD 算法伪代码如下
 
-<img width="80%" src="/img/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610185545591.png"/>
+<img width="80%" src="/images/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610185545591.png"/>
 
 
 
@@ -107,7 +104,7 @@ DCC-MD 算法伪代码如下
 
 MADDPG-MD 框架图如下
 
-<img width="100%" src="/img/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610191711634.png"/>
+<img width="100%" src="/images/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610191711634.png"/>
 
 
 
@@ -120,7 +117,7 @@ MADDPG-MD 框架图如下
 
 2、损失函数的定义如下，注意作用于 $x$ 和 $x'$ 的 $b_{j}$  需要保持一致。
 
-<img width="70%" src="/img/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610193038012.png"/>
+<img width="70%" src="/images/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610193038012.png"/>
 
 
 
@@ -132,7 +129,7 @@ MADDPG-MD 框架图如下
 
 1、采用了三个实验环境，在实验中将智能体的观察作为通信信息。
 
-<img width="80%" src="/img/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610191823279.png"/>
+<img width="80%" src="/images/in-post/2020-06-10-强化学习论文（6）DCC-MD&MADDPG-MD.assets/image-20200610191823279.png"/>
 
 
 

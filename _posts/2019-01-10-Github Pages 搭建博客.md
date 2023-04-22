@@ -3,10 +3,7 @@
 title:      "Github Pages 搭建博客"
 subtitle:    "Github Pages + Jekyll 搭建博客"
 date:       2019-01-10 09:00:00
-author:     Shunyu
-header-img: img/post-bg-2015.jpg
-header-mask: 0.1
-catalog: true
+
 tags:
     - github
     - jekyll
@@ -37,7 +34,7 @@ tags:
 
 新建一个仓库 repository，仓库名字为 `xxx.github.io`，其中 `xxx` 为你 github 的 `username`。
 
-<img width="480" src="/img/in-post/2019-01-10-Github Pages 搭建博客.assets/1.png"/>
+<img width="480" src="/images/in-post/2019-01-10-Github Pages 搭建博客.assets/1.png"/>
 
 然后把自己新建的仓库 clone下来。
 
@@ -276,13 +273,13 @@ const HOSTNAME_WHITELIST = [
 
 > Github 头像下拉菜单 -> Settings -> 左边 Developer settings 下的 OAuth Apps -> New OAuth App -> 填写相关信息
 
-<img width="480" src="/img/in-post/2019-01-10-Github Pages 搭建博客.assets/2.png"/>
+<img width="480" src="/images/in-post/2019-01-10-Github Pages 搭建博客.assets/2.png"/>
 
 
 
 2、填写相关信息
 
-<img width="480" src="/img/in-post/2019-01-10-Github Pages 搭建博客.assets/3.png"/>
+<img width="480" src="/images/in-post/2019-01-10-Github Pages 搭建博客.assets/3.png"/>
 
 
 
@@ -317,7 +314,7 @@ gitalk:
 
 ```markdown
 ---
-layout:     post
+
 title:      "主标题"
 subtitle:   "副标题"
 date:       2019-01-01 09:00:00

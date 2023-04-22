@@ -1,12 +1,7 @@
 ---
-layout:      post
 title:       "python 中配置 linux 环境变量"
 subtitle:    "python 中配置 linux 环境变量"
 date:        2020-03-31 09:00:00
-author:      Shunyu
-header-img:  img/post-bg-2015.jpg
-header-mask: 0.1
-catalog:     true
 tags:
     - linux
     - python
