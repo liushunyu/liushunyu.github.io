@@ -20,21 +20,35 @@ Selected Publications
 
 - Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition. [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA)
   > **Shunyu Liu**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
-  > AAAI Conference on Artificial Intelligence (AAAI) 2023, **Oral** 
+  > AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
-- **Shunyu Liu**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song. Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning, arXiv preprint arXiv:2207.03902, 2022. [[arXiv]](https://arxiv.org/abs/2207.03902) [[Code]](https://github.com/liushunyu/OPT)
+- Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning. [[arXiv]](https://arxiv.org/abs/2207.03902) [[Code]](https://github.com/liushunyu/OPT)
+  > **Shunyu Liu**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.
+  > arXiv preprint arXiv:2207.03902, 2022. 
 
-- **Shunyu Liu**, Yu, Na, Jie Song, Kaixuan Chen, Zunlei Feng, Mingli Song. Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework, arXiv preprint arXiv:2207.01955, 2022. [[arXiv]](https://arxiv.org/abs/2207.01955)
+- Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework. [[arXiv]](https://arxiv.org/abs/2207.01955)
+  > **Shunyu Liu**, Yu, Na, Jie Song, Kaixuan Chen, Zunlei Feng, Mingli Song.
+  > arXiv preprint arXiv:2207.01955, 2022.
 
-- Kaixuan Chen, Jie Song, **Shunyu Liu**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song. Distribution Knowledge Embedding for Graph Pooling, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9896198/) [[arXiv]](https://arxiv.org/abs/2109.14333) [[Code]](https://github.com/chenchkx/DKEPool)
+- Distribution Knowledge Embedding for Graph Pooling. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9896198/) [[arXiv]](https://arxiv.org/abs/2109.14333) [[Code]](https://github.com/chenchkx/DKEPool)
+  > Kaixuan Chen, Jie Song, **Shunyu Liu**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.
+  > IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
 
-- Kaixuan Chen, **Shunyu Liu**, Na Yu, Rong Yan, Quan Zhang, Jie Song, Zunlei Feng, Mingli Song. Distribution-Aware Graph Representation Learning for Transient Stability Assessment of Power System, International Joint Conference on Neural Networks (IJCNN), 2022. (Oral) [[Paper]](https://ieeexplore.ieee.org/abstract/document/9892854/) [[arXiv]](https://arxiv.org/abs/2205.06576) [[Code]](https://github.com/chenchkx/DKEPool-TSA)
+- Distribution-Aware Graph Representation Learning for Transient Stability Assessment of Power System. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9892854/) [[arXiv]](https://arxiv.org/abs/2205.06576) [[Code]](https://github.com/chenchkx/DKEPool-TSA)
+  > Kaixuan Chen, **Shunyu Liu**, Na Yu, Rong Yan, Quan Zhang, Jie Song, Zunlei Feng, Mingli Song. 
+  > International Joint Conference on Neural Networks (IJCNN), 2022, **Oral**.
 
-- Yunpeng Qing, **Shunyu Liu**, Jie Song, Mingli Song. A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges, arXiv preprint arXiv:2211.06665, 2022. [[arXiv]](https://arxiv.org/abs/2211.06665) [[Code]](https://github.com/Plankson/awesome-explainable-reinforcement-learning)
+- A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges. [[arXiv]](https://arxiv.org/abs/2211.06665) [[Code]](https://github.com/Plankson/awesome-explainable-reinforcement-learning)
+  > Yunpeng Qing, **Shunyu Liu**, Jie Song, Mingli Song.
+  > arXiv preprint arXiv:2211.06665, 2022. 
 
-- Gengshi Han, **Shunyu Liu**, Kaixuan Chen, Na Yu, Zunlei Feng, Mingli Song. Imbalanced Sample Generation and Evaluation for Power System Transient Stability Using CTGAN, International Conference on Intelligent Computing and Optimization (ICO), 2022. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-93247-3_55) [[arXiv]](https://arxiv.org/abs/2112.08836)
+- Imbalanced Sample Generation and Evaluation for Power System Transient Stability Using CTGAN. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-93247-3_55) [[arXiv]](https://arxiv.org/abs/2112.08836)
+  > Gengshi Han, **Shunyu Liu**, Kaixuan Chen, Na Yu, Zunlei Feng, Mingli Song.
+  > International Conference on Intelligent Computing and Optimization (ICO), 2022.
 
-- Jinxin Lin, **Shunyu Liu**, Gan Huang, Zhiguo Zhang, Kai Huang. The Recognition of Driving Action Based on EEG Signals Using Wavelet-CSP Algorithm, International Conference on Digital Signal Processing (DSP), 2018. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8631540/) 
+- The Recognition of Driving Action Based on EEG Signals Using Wavelet-CSP Algorithm. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8631540/) 
+  > Jinxin Lin, **Shunyu Liu**, Gan Huang, Zhiguo Zhang, Kai Huang.
+  > International Conference on Digital Signal Processing (DSP), 2018. 
 
 Awards & Honors
 ======
