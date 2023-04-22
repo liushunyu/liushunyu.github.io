@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Ph.D. Student** \| [**Visual Intelligence and Pattern Analysis (VIPA) Lab**](https://www.vipazoo.cn/) \| [**Zhejiang University**](https://www.zju.edu.cn/)
+**Ph.D. Student** \| [**Visual Intelligence and Pattern Analysis Lab**](https://www.vipazoo.cn/) \| [**Zhejiang University**](https://www.zju.edu.cn/)
 
 Biography
 ======
