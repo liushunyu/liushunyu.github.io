@@ -18,7 +18,7 @@ I am currently pursuing the Ph.D. degree in the [Visual Intelligence and Pattern
 Selected Publications
 ======
 
-> <font color=#367e7f>Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition.</font> [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA) \\
+> \textbf{Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition.} [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA) \\
   > **Shunyu Liu**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
   > AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
