@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shunyu Liu / 刘顺宇"
+title: "Shunyu Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ redirect_from:
 Biography
 ======
 
-I am currently pursuing the Ph.D. degree in the [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn/) @ [Zhejiang University](https://www.zju.edu.cn/), advised by Prof. [Mingli Song](https://person.zju.edu.cn/msong) and Prof. [Chun Chen](https://person.zju.edu.cn/chenc). I received the B.Eng. degree from the School of Data and Computer Science, [Sun Yat-sen University](https://www.sysu.edu.cn/), in 2019. My current research interests include reinforcement learning, multi-agent systems, and power systems. **Please feel free to contact me if you are interested in my research :)**
+I am currently pursuing the Ph.D. degree in the [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn/) @ [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Mingli Song](https://person.zju.edu.cn/en/msong) and Prof. [Chun Chen](https://person.zju.edu.cn/en/chenc). I received the B.Eng. degree from the School of Data and Computer Science, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), in 2019. My current research interests include reinforcement learning, multi-agent systems, and power systems. **Please feel free to contact me if you are interested in my research :)**
 
 Selected Publications
 ======
