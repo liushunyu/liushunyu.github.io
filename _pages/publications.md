@@ -28,7 +28,7 @@ author_profile: true
 > **ICO 2021**{: .btn} \\
 > **Imbalanced Sample Generation and Evaluation for Power System Transient Stability Using CTGAN** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-93247-3_55) [[arXiv]](https://arxiv.org/abs/2112.08836) \\
   > Gengshi Han, **<u>Shunyu Liu</u>**, Kaixuan Chen, Na Yu, Zunlei Feng, Mingli Song.\\
-  > International Conference on Intelligent Computing and Optimization (ICO), 2021.
+  > International Conference on Intelligent Computing and Optimization (ICO), 2021, **Oral**.
 
 > **DSP 2018**{: .btn} \\
 > **The Recognition of Driving Action Based on EEG Signals Using Wavelet-CSP Algorithm** [[Paper]](https://ieeexplore.ieee.org/abstract/document/8631540/)  \\

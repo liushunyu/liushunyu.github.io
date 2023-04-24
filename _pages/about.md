@@ -33,6 +33,11 @@ Selected Publications
   > **<u>Shunyu Liu</u>**, Yu, Na, Jie Song, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.01955, 2022.
 
+> **TKDE 2022**{: .btn} \\
+> **Distribution Knowledge Embedding for Graph Pooling** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9896198/) [[arXiv]](https://arxiv.org/abs/2109.14333) [[Code]](https://github.com/chenchkx/DKEPool) \\
+  > Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
+  > IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
+
 Awards & Honors
 ======
 
