@@ -13,16 +13,15 @@ redirect_from:
 Biography
 ======
 
-I am currently pursuing the Ph.D. degree in the [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn/) @ [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Mingli Song](https://person.zju.edu.cn/en/msong) and Prof. [Chun Chen](https://person.zju.edu.cn/en/chenc). I received the B.Eng. degree from the School of Data and Computer Science, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), in 2019. My current research interests include **reinforcement learning**, **multi-agent systems**, and **power systems**. 
-
-**Please feel free to contact me if you are interested in my research :)**{: .notice}
+I am currently pursuing the Ph.D. degree in the [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn/) @ [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Mingli Song](https://person.zju.edu.cn/en/msong) and Prof. [Chun Chen](https://person.zju.edu.cn/en/chenc). I received the B.Eng. degree from the School of Data and Computer Science, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), in 2019. My current research interests include **reinforcement learning**, **multi-agent systems**, and **power systems**. **Please feel free to contact me if you are interested in my research :)**
 
 Selected Publications
 ======
 
+> **AAAI 2023**{: .notice}
 > **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA) \\
-  > :   **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
-  > :   AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
+  > **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
+  > AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
 > **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** [[arXiv]](https://arxiv.org/abs/2207.03902) [[Code]](https://github.com/liushunyu/OPT) \\
   > **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
