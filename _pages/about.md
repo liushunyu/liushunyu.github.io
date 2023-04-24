@@ -23,6 +23,7 @@ Selected Publications
   > **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
   > AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
+> **AAAI 2023**{: .btn} \\
 > **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** [[arXiv]](https://arxiv.org/abs/2207.03902) [[Code]](https://github.com/liushunyu/OPT) \\
   > **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.03902, 2022. 
