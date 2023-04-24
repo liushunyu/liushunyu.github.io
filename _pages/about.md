@@ -33,36 +33,6 @@ Selected Publications
   > **<u>Shunyu Liu</u>**, Yu, Na, Jie Song, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.01955, 2022.
 
-> **ICLR Tiny Paper 2023**{: .btn} \\
-> **Message-passing Selection: Towards Interpretable GNNs for Graph Classification** [[Paper]](https://openreview.net/pdf?id=99Go96dla5y) \\
-  > Wenda Li, Kaixuan Chen, **<u>Shunyu Liu</u>**, Wenjie Huang, Haofei Zhang, Yingjie Tian, Yun Su, Mingli Song.\\
-  > International Conference on Learning Representations (ICLR) Tiny Paper, 2023.
-
-> **TKDE 2022**{: .btn} \\
-> **Distribution Knowledge Embedding for Graph Pooling** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9896198/) [[arXiv]](https://arxiv.org/abs/2109.14333) [[Code]](https://github.com/chenchkx/DKEPool) \\
-  > Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
-  > IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
-
-> **IJCNN 2022**{: .btn} \\
-> **Distribution-Aware Graph Representation Learning for Transient Stability Assessment of Power System** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9892854/) [[arXiv]](https://arxiv.org/abs/2205.06576) [[Code]](https://github.com/chenchkx/DKEPool-TSA) \\
-  > Kaixuan Chen, **<u>Shunyu Liu</u>**, Na Yu, Rong Yan, Quan Zhang, Jie Song, Zunlei Feng, Mingli Song.\\
-  > International Joint Conference on Neural Networks (IJCNN), 2022, **Oral**.
-
-> **arXiv 2022**{: .btn} \\
-> **A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges** [[arXiv]](https://arxiv.org/abs/2211.06665) [[Code]](https://github.com/Plankson/awesome-explainable-reinforcement-learning) \\
-  > Yunpeng Qing, **<u>Shunyu Liu</u>**, Jie Song, Mingli Song. \\
-  > arXiv preprint arXiv:2211.06665, 2022. 
-
-> **ICO 2021**{: .btn} \\
-> **Imbalanced Sample Generation and Evaluation for Power System Transient Stability Using CTGAN** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-93247-3_55) [[arXiv]](https://arxiv.org/abs/2112.08836) \\
-  > Gengshi Han, **<u>Shunyu Liu</u>**, Kaixuan Chen, Na Yu, Zunlei Feng, Mingli Song.\\
-  > International Conference on Intelligent Computing and Optimization (ICO), 2021.
-
-> **DSP 2018**{: .btn} \\
-> **The Recognition of Driving Action Based on EEG Signals Using Wavelet-CSP Algorithm** [[Paper]](https://ieeexplore.ieee.org/abstract/document/8631540/)  \\
-  > Jinxin Lin, **<u>Shunyu Liu</u>**, Gan Huang, Zhiguo Zhang, Kai Huang.\\
-  > International Conference on Digital Signal Processing (DSP), 2018. 
-
 Awards & Honors
 ======
 
