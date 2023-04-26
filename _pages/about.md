@@ -50,7 +50,7 @@ Awards & Honors
   - Ranked 3rd in "Power System Dispatching AI Application Competition", China Southern Power Grid, 2023.
 
 
-Service
+Academic Services
 ======
 
 ### Conference Reviewer
