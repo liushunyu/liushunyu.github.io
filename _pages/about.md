@@ -47,7 +47,7 @@ Awards & Honors
   - Meritorious Winner in "Mathematical Contest in Modeling", COMAP, 2018.
   - Ranked 9th in "Advanced Power System AI Application Competition", State Grid Corporation of China, 2022
   - Ranked 5th in "L2RPN Challenge - Energies of the Future and Carbon Neutrality", WCCI, 2022.
-  - Ranked 3rd in "The Fourth Power System Dispatching AI Application Competition", China Southern Power Grid, 2023.
+  - Ranked 3rd in "Power System Dispatching AI Application Competition", China Southern Power Grid, 2023.
 
 
 Service
