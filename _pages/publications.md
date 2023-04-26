@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: archive-no-sidebar
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 ## Conference
