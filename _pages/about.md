@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shunyu Liu"
+title: "Shunyu Liu / 刘顺宇"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
