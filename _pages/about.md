@@ -18,22 +18,18 @@ I am currently pursuing the Ph.D. degree in the [Visual Intelligence and Pattern
 Selected Publications
 ======
 
-> **AAAI 2023**{: .btn} \\
 > **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA) \\
   > **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
   > AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
-> **arXiv 2022**{: .btn} \\
 > **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** [[arXiv]](https://arxiv.org/abs/2207.03902) [[Code]](https://github.com/liushunyu/OPT) \\
   > **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.03902, 2022. 
 
-> **arXiv 2022**{: .btn} \\
 > **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** [[arXiv]](https://arxiv.org/abs/2207.01955) \\
   > **<u>Shunyu Liu</u>**, Yu, Na, Jie Song, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.01955, 2022.
 
-> **TKDE 2022**{: .btn} \\
 > **Distribution Knowledge Embedding for Graph Pooling** [[Paper]](https://ieeexplore.ieee.org/abstract/document/9896198/) [[arXiv]](https://arxiv.org/abs/2109.14333) [[Code]](https://github.com/chenchkx/DKEPool) \\
   > Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
   > IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
