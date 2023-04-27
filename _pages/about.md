@@ -19,6 +19,11 @@ I am currently pursuing the Ph.D. degree in the <a href="https://www.vipazoo.cn/
 Selected Publications
 ======
 
+<a href="" target="_blank" style="text-decoration: none">[Paper]</a>
+<a href="" target="_blank" style="text-decoration: none">[arXiv]</a>
+<a href="" target="_blank" style="text-decoration: none">[Code]</a>
+
+
 > **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** [[arXiv]](https://arxiv.org/abs/2211.12712) [[Code]](https://github.com/liushunyu/CIA) \\
   > **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
   > AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
