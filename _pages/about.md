@@ -13,7 +13,8 @@ redirect_from:
 Biography
 ======
 
-I am currently pursuing the Ph.D. degree in the [Visual Intelligence and Pattern Analysis (VIPA) Lab](https://www.vipazoo.cn/) @ [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Mingli Song](https://person.zju.edu.cn/en/msong) and Prof. [Chun Chen](https://person.zju.edu.cn/en/0082004). I received the B.Eng. degree from the School of Data and Computer Science, [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/), in 2019. My current research interests include **reinforcement learning**, **multi-agent systems**, and **power systems**. **Please feel free to contact me if you are interested in my research :)**
+
+I am currently pursuing the Ph.D. degree in the <a href="https://www.vipazoo.cn/" target="_blank" style="text-decoration: none">Visual Intelligence and Pattern Analysis (VIPA) Lab</a> @ <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. I received the B.Eng. degree from the School of Data and Computer Science, <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a>, in 2019. My current research interests include **reinforcement learning**, **multi-agent systems**, and **power systems**. **Please feel free to contact me if you are interested in my research :)**
 
 Selected Publications
 ======

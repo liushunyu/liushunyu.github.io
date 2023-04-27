@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shunyu Liu"
 description              : &description "Ph.D. Student @ ZJU"
