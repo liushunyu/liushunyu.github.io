@@ -21,22 +21,22 @@ Selected Publications
 
 
 > **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  > **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song$\dagger$, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
+  > **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song$^\dagger$, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
   > AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
 > **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  > **<u>Shunyu Liu</u>**, Jie Song$\dagger$, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
+  > **<u>Shunyu Liu</u>**, Jie Song$^\dagger$, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.03902, 2022. 
 
 > **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[arXiv\]</a> \\
-  > **<u>Shunyu Liu</u>**, Yu, Na, Jie Song, Kaixuan Chen, Zunlei Feng, Mingli Song$\dagger$.\\
+  > **<u>Shunyu Liu</u>**, Yu, Na, Jie Song, Kaixuan Chen, Zunlei Feng, Mingli Song$^\dagger$.\\
   > arXiv preprint arXiv:2207.01955, 2022.
 
 > **Distribution Knowledge Embedding for Graph Pooling** <a href="https://ieeexplore.ieee.org/abstract/document/9896198/" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2109.14333" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  > Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song$\dagger$.\\
+  > Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song$^\dagger$.\\
   > IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
 
-:   $\dagger$Corresponding author.
+$^\dagger$Corresponding author.
 
 Awards & Honors
 ======
