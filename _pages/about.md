@@ -14,7 +14,10 @@ Biography
 ======
 
 
-I am currently pursuing the Ph.D. degree in the <a href="https://www.vipazoo.cn/" target="_blank" style="text-decoration: none">Visual Intelligence and Pattern Analysis (VIPA) Lab</a> @ <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. I received the B.Eng. degree from the School of Data and Computer Science, <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a>, in 2019. My current research interests include **reinforcement learning**, **multi-agent systems**, and **power systems**. **Please feel free to contact me if you are interested in my research :)**
+I am currently pursuing the Ph.D. degree in the <a href="https://www.vipazoo.cn/" target="_blank" style="text-decoration: none">Visual Intelligence and Pattern Analysis (VIPA) Lab</a> @ <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. I received the B.Eng. degree from the School of Data and Computer Science, <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a>, in 2019. My current research interests include **reinforcement learning**, **multi-agent systems**, and **power systems**. 
+
+
+**Please feel free to contact me if you are interested in my research :)**
 
 Selected Publications
 ======
@@ -31,6 +34,10 @@ Selected Publications
 > **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[arXiv\]</a> \\
   > **<u>Shunyu Liu</u>**, Yu, Na, Jie Song, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.01955, 2022.
+
+> **Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization** \\
+  >  Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongtian Zhu, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
+  > ACM Knowledge Discovery and Data Mining (SIGKDD), 2023.
 
 > **Distribution Knowledge Embedding for Graph Pooling** <a href="https://ieeexplore.ieee.org/abstract/document/9896198/" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2109.14333" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   > Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\

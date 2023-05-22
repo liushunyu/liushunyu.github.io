@@ -16,6 +16,9 @@ author_profile: false
   > AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
 
+> **Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization** \\
+  >  Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongtian Zhu, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
+  > ACM Knowledge Discovery and Data Mining (SIGKDD), 2023.
 
 
 
