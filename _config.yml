@@ -196,12 +196,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: single-no-sidebar
       author_profile: false
       read_time: true
       comments: true
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: ""
@@ -223,8 +223,8 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
-      author_profile: true
+      layout: single-no-sidebar
+      author_profile: false
       share: true
       comments: true
   # _portfolio
