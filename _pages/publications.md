@@ -88,7 +88,7 @@ author_profile: false
 
 
 > **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  > Yihe Zhou, **<u>Shunyu Liu</u>**, Yunpeng Qing, Kaixuan Chen, Tongya Zheng, Yanhao Huang, Jie Song, Mingli Song.
+  > Yihe Zhou, **<u>Shunyu Liu</u>**, Yunpeng Qing, Kaixuan Chen, Tongya Zheng, Yanhao Huang, Jie Song, Mingli Song. \\
   > arXiv preprint arXiv:2305.17352, 2023.
 
 
