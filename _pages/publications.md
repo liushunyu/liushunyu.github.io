@@ -18,7 +18,7 @@ author_profile: false
 
 > **Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization** \\
   >  Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongtian Zhu, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
-  > ACM Knowledge Discovery and Data Mining (SIGKDD), 2023.
+  > ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023.
 
 
 

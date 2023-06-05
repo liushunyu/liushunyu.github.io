@@ -37,7 +37,7 @@ Selected Publications
 
 > **Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization** \\
   >  Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongtian Zhu, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
-  > ACM Knowledge Discovery and Data Mining (SIGKDD), 2023.
+  > ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023.
 
 > **Distribution Knowledge Embedding for Graph Pooling** <a href="https://ieeexplore.ieee.org/abstract/document/9896198/" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2109.14333" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   > Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
