@@ -63,7 +63,7 @@ Awards & Honors
 Academic Services
 ======
 
-### Conference Reviewer
+### Program Committee
   - International Joint Conference on Artificial Intelligence (IJCAI)
   - AAAI Conference on Artificial Intelligence (AAAI)
   - International Conference on Learning Representations (ICLR)
