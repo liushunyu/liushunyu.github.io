@@ -35,7 +35,7 @@ Selected Publications
   > **<u>Shunyu Liu</u>**, Yu, Na, Jie Song, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.01955, 2022.
 
-> **Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization** <a href="https://arxiv.org/abs/2305.19903" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+> **Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization** <a href="https://arxiv.org/abs/2305.19903" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/SuperNorm" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   >  Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongtian Zhu, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
   > ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023.
 
