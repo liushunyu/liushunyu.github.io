@@ -18,11 +18,11 @@ author_profile: false
 
 > **Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization** <a href="https://arxiv.org/abs/2305.19903" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/SuperNorm" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   >  Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongtian Zhu, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
-  > ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD), 2023.
+  > ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
 
 
 
-> **Message-passing Selection: Towards Interpretable GNNs for Graph Classification** <a href="https://openreview.net/pdf?id=99Go96dla5y" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+> **Message-passing Selection: Towards Interpretable GNNs for Graph Classification** <a href="https://openreview.net/forum?id=99Go96dla5y" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   > Wenda Li, Kaixuan Chen, **<u>Shunyu Liu</u>**, Wenjie Huang, Haofei Zhang, Yingjie Tian, Yun Su, Mingli Song.\\
   > International Conference on Learning Representations (ICLR) Tiny Paper, 2023.
 
