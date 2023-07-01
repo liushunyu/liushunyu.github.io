@@ -50,7 +50,7 @@ author_profile: false
 
 > **The Recognition of Driving Action Based on EEG Signals Using Wavelet-CSP Algorithm** <a href="https://ieeexplore.ieee.org/abstract/document/8631540/" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   > Jinxin Lin, **<u>Shunyu Liu</u>**, Gan Huang, Zhiguo Zhang, Kai Huang.\\
-  > International Conference on Digital Signal Processing (DSP), 2018. 
+  > IEEE International Conference on Digital Signal Processing (DSP), 2018. 
 
 
 ## Journal
@@ -79,12 +79,26 @@ author_profile: false
 
 
 
-
-
 > **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   > **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
   > arXiv preprint arXiv:2207.01955, 2022.
 
+
+> **Curricular Subgoals for Inverse Reinforcement Learning** <a href="https://arxiv.org/abs/2306.08232" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Plankson/CSIRL" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  > **<u>Shunyu Liu</u>**, Yunpeng Qing, Shuqi Xu, Hongyan Wu, Jiangtao Zhang, Jingyuan Cong, Tianhao Chen, Yunfu Liu, Mingli Song.\\
+  > arXiv preprint arXiv:2306.08232, 2023.
+
+
+> **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
+  > Yu Wang, Tongya Zheng, **<u>Shunyu Liu</u>**, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
+  > arXiv preprint arXiv:2306.09381, 2023.
+
+
+
+
+> **Lookaround Optimizer: $k$ steps around, 1 step average** <a href="https://arxiv.org/abs/2306.07684" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ardcy/Lookaround" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  > Jiangtao Zhang, **<u>Shunyu Liu</u>**, Jie Song, Tongtian Zhu, Zhengqi Xu, Mingli Song. \\
+  > arXiv preprint arXiv:2306.07684, 2023.
 
 
 > **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
