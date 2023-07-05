@@ -11,7 +11,7 @@ redirect_from:
 **Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
 
 
-🎓 Biography
+🌟 Biography
 ======
 
 
@@ -25,7 +25,7 @@ My current research interests include
 
 > **Please feel free to contact me if you are interested in my research :)**
 
-📖 Selected Publications
+📝 Selected Publications
 ======
 
 
