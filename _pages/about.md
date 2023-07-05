@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 **Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
-<br>
 
 
 
-🌟 Biography
+
+Biography 🌟 
 ======
 
 
@@ -23,10 +23,10 @@ My current research interests include
 - **reinforcement learning**
 - **multi-agent learning**
 - **power system control**
-<br>
 
 
-📝 Selected Publications
+
+Selected Publications 📝 
 ======
 
 
@@ -52,7 +52,7 @@ My current research interests include
 <br>
 
 
-🎯 Awards & Honors
+Awards & Honors 🎯 
 ======
 
 ### Scholarship
@@ -68,7 +68,7 @@ My current research interests include
   - Ranked 3rd in "Power System Dispatching AI Application Competition", China Southern Power Grid, 2023.
 <br>
 
-⚖️ Academic Services
+Academic Services ⚖️ 
 ======
 
 ### Program Committee
