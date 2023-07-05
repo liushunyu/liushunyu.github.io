@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 **Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
-
 <br>
 
 
@@ -24,7 +23,6 @@ My current research interests include
 - **reinforcement learning**
 - **multi-agent learning**
 - **power system control**
-
 <br>
 
 
@@ -51,7 +49,6 @@ My current research interests include
 - **Distribution Knowledge Embedding for Graph Pooling** <a href="https://arxiv.org/abs/2109.14333" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
   IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
-
 <br>
 
 
@@ -69,7 +66,6 @@ My current research interests include
   - Ranked 9th in "Advanced Power System AI Application Competition", State Grid Corporation of China, 2022
   - Ranked 5th in "L2RPN Challenge - Energies of the Future and Carbon Neutrality", WCCI, 2022.
   - Ranked 3rd in "Power System Dispatching AI Application Competition", China Southern Power Grid, 2023.
-
 <br>
 
 ⚖️ Academic Services
@@ -83,7 +79,6 @@ My current research interests include
 ### Journal Reviewer
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - Information Sciences (INS)
-
 <br>
 
 > **Please feel free to contact me if you are interested in my research :)**
