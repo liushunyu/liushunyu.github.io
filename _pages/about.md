@@ -10,8 +10,10 @@ redirect_from:
 
 **Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
 
+<br><br>
 
-\\\\
+
+
 🌟 Biography
 ======
 
@@ -23,9 +25,9 @@ My current research interests include
 - **multi-agent learning**
 - **power system control**
 
+<br><br>
 
 
-\\\\
 📝 Selected Publications
 ======
 
@@ -50,7 +52,9 @@ My current research interests include
   Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
   IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
 
-\\\\
+<br><br>
+
+
 🎯 Awards & Honors
 ======
 
@@ -66,7 +70,8 @@ My current research interests include
   - Ranked 5th in "L2RPN Challenge - Energies of the Future and Carbon Neutrality", WCCI, 2022.
   - Ranked 3rd in "Power System Dispatching AI Application Competition", China Southern Power Grid, 2023.
 
-\\\\
+<br><br>
+
 ⚖️ Academic Services
 ======
 
@@ -79,5 +84,6 @@ My current research interests include
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - Information Sciences (INS)
 
+<br><br>
 
 > **Please feel free to contact me if you are interested in my research :)**
