@@ -10,7 +10,8 @@ redirect_from:
 
 **Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
 
-Biography
+
+🎓 Biography
 ======
 
 
@@ -24,7 +25,7 @@ My current research interests include
 
 > **Please feel free to contact me if you are interested in my research :)**
 
-Selected Publications
+📖 Selected Publications
 ======
 
 
@@ -49,7 +50,7 @@ Selected Publications
   IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
 
 
-Awards & Honors
+🎯 Awards & Honors
 ======
 
 ### Scholarship
@@ -65,7 +66,7 @@ Awards & Honors
   - Ranked 3rd in "Power System Dispatching AI Application Competition", China Southern Power Grid, 2023.
 
 
-Academic Services
+⚖️ Academic Services
 ======
 
 ### Program Committee
