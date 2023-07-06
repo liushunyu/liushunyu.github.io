@@ -10,6 +10,8 @@ redirect_from:
 
 **Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
 
+> "The true sign of intelligence is not knowledge but imagination." ―― Albert Einstein
+
 <br>
 
 
