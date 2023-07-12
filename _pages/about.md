@@ -10,7 +10,7 @@ redirect_from:
 
 **Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
 
-> "The true sign of intelligence is not knowledge but imagination." ―― Albert Einstein
+> **Please feel free to contact me if you are interested in my research :)**
 
 <br>
 
@@ -83,6 +83,3 @@ Academic Services ⚖️
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - Information Sciences (INS)
 
-<br>
-
-> **Please feel free to contact me if you are interested in my research :)**
