@@ -10,7 +10,7 @@ redirect_from:
 
 **Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
 
-> **Please feel free to contact me if you are interested in my research :)**
+> Please feel free to contact me if you are interested in my research :)
 
 <br>
 
