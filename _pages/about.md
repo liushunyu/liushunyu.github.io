@@ -24,7 +24,8 @@ I am currently pursuing the Ph.D. degree in the <a href="https://www.vipazoo.cn/
 My current research interests include 
 - **reinforcement learning**
 - **multi-agent learning**
-- **power system control**
+- **graph representation learning**
+- **power system dispatch and control**
 
 <br>
 
@@ -71,12 +72,11 @@ Awards & Honors 🎯
 Academic Services ⚖️ 
 ======
 
-### Program Committee
-  - International Joint Conference on Artificial Intelligence (IJCAI)
-  - AAAI Conference on Artificial Intelligence (AAAI)
-  - International Conference on Learning Representations (ICLR)
 
 ### Journal Reviewer
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - Information Sciences (INS)
+
+### Conference Reviewer
+  - ICLR 2023, ECAI 2023, ICONIP 2023
 

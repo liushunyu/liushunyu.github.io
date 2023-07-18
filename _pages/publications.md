@@ -5,6 +5,28 @@ permalink: /publications/
 author_profile: false
 ---
 
+
+
+## Journal
+
+
+
+- **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** \\
+  **<u>Shunyu Liu</u>**, Wei Luo, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
+  IEEE Transactions on Power Systems, 2023.
+
+- **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
+  IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), 2023.
+
+
+- **Distribution Knowledge Embedding for Graph Pooling** <a href="https://arxiv.org/abs/2109.14333" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
+  IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
+
+
+
+
 ## Conference
 
 
@@ -57,23 +79,6 @@ author_profile: false
   Jinxin Lin, **<u>Shunyu Liu</u>**, Gan Huang, Zhiguo Zhang, Kai Huang.\\
   IEEE International Conference on Digital Signal Processing (DSP), 2018. 
 
-
-## Journal
-
-
-
-- **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** \\
-  **<u>Shunyu Liu</u>**, Wei Luo, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
-  IEEE Transactions on Power Systems, 2023.
-
-- **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
-  IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), 2023.
-
-
-- **Distribution Knowledge Embedding for Graph Pooling** <a href="https://arxiv.org/abs/2109.14333" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
-  IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
 
 
 
