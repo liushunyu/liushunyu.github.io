@@ -16,6 +16,11 @@ author_profile: false
   AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
 
+- **Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket** \\
+  Yuwen Wang, **<u>Shunyu Liu</u>**, Kaixuan Chen, Tongtian Zhu, Ji Qiao, Mengjie Shi, Yuanyu Wan, Mingli Song.\\
+  European Conference on Artificial Intelligence (ECAI), 2023.
+
+
 - **Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization** <a href="https://arxiv.org/abs/2305.19903" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/SuperNorm" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongtian Zhu, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
