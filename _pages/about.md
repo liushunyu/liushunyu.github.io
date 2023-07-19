@@ -24,7 +24,6 @@ I am currently pursuing the Ph.D. degree in the <a href="https://www.vipazoo.cn/
 My current research interests include 
 - **reinforcement learning**
 - **multi-agent learning**
-- **graph representation learning**
 - **power system dispatch and control**
 
 <br>
