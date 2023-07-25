@@ -22,7 +22,7 @@ author_profile: false
 
 - **Distribution Knowledge Embedding for Graph Pooling** <a href="https://arxiv.org/abs/2109.14333" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
-  IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. 
+  IEEE Transactions on Knowledge and Data Engineering, 2022. 
 
 
 
