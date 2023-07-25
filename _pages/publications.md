@@ -30,14 +30,6 @@ author_profile: false
 ## Conference
 
 
-
-
-
-- **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
-  AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
-
-
 - **Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket** \\
   Yuwen Wang, **<u>Shunyu Liu</u>**, Kaixuan Chen, Tongtian Zhu, Ji Qiao, Mengjie Shi, Yuanyu Wan, Mingli Song.\\
   European Conference on Artificial Intelligence (ECAI), to appear, 2023.
@@ -47,14 +39,14 @@ author_profile: false
   Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongtian Zhu, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
 
+- **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
+  AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
 
 - **Message-passing Selection: Towards Interpretable GNNs for Graph Classification** <a href="https://openreview.net/forum?id=99Go96dla5y" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Wenda Li, Kaixuan Chen, **<u>Shunyu Liu</u>**, Wenjie Huang, Haofei Zhang, Yingjie Tian, Yun Su, Mingli Song.\\
   International Conference on Learning Representations (ICLR) Tiny Paper, 2023.
-
-
-
 
 
 
@@ -87,14 +79,6 @@ author_profile: false
 
 
 
-
-
-- **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
-  arXiv preprint arXiv:2207.03902, 2022. 
-
-
-
 - **Curricular Subgoals for Inverse Reinforcement Learning** <a href="https://arxiv.org/abs/2306.08232" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Plankson/CSIRL" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Yunpeng Qing, Shuqi Xu, Hongyan Wu, Jiangtao Zhang, Jingyuan Cong, Tianhao Chen, Yunfu Liu, Mingli Song.\\
   arXiv preprint arXiv:2306.08232, 2023.
@@ -105,8 +89,6 @@ author_profile: false
   arXiv preprint arXiv:2306.09381, 2023.
 
 
-
-
 - **Lookaround Optimizer: $k$ steps around, 1 step average** <a href="https://arxiv.org/abs/2306.07684" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ardcy/Lookaround" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Jiangtao Zhang, **<u>Shunyu Liu</u>**, Jie Song, Tongtian Zhu, Zhengqi Xu, Mingli Song. \\
   arXiv preprint arXiv:2306.07684, 2023.
@@ -115,6 +97,12 @@ author_profile: false
 - **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yihe Zhou, **<u>Shunyu Liu</u>**, Yunpeng Qing, Kaixuan Chen, Tongya Zheng, Yanhao Huang, Jie Song, Mingli Song. \\
   arXiv preprint arXiv:2305.17352, 2023.
+
+
+
+- **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
+  arXiv preprint arXiv:2207.03902, 2022. 
 
 
 
