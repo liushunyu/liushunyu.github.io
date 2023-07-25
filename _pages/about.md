@@ -44,7 +44,8 @@ Selected Publications 📝
 ======
 
 
-- **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** \\
+
+- **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   **<u>Shunyu Liu</u>**, Wei Luo, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
   IEEE Transactions on Power Systems, to appear, 2023.
 
