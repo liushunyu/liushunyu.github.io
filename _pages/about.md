@@ -10,7 +10,19 @@ redirect_from:
 
 **Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
 
-> Please feel free to contact me if you are interested in my research :)
+
+
+News 🔥
+======
+
+- Jul. 2023: One papers was accepted by <a href="https://ecai2023.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
+- Jul. 2023: One papers was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59" target="_blank" style="text-decoration: none">IEEE Transactions on Power Systems</a>.
+- Jul. 2023: One papers was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" target="_blank" style="text-decoration: none">IEEE Transactions on Systems, Man and Cybernetics: Systems</a>.
+- May. 2023: One papers was accepted by <a href="https://kdd.org/kdd2023/" target="_blank" style="text-decoration: none">KDD 2023</a>.
+- Apr. 2023: One papers was accepted by <a href="https://iclr.cc/Conferences/2023" target="_blank" style="text-decoration: none">ICLR 2023 Tiny Paper</a>.
+- Nov. 2022: One papers was accepted by <a href="https://aaai-23.aaai.org/" target="_blank" style="text-decoration: none">AAAI 2023</a>.
+- Seq. 2022: One papers was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
+
 
 <br>
 
@@ -19,7 +31,7 @@ Biography 🌟
 ======
 
 
-I am currently pursuing the Ph.D. degree in the <a href="https://www.vipazoo.cn/" target="_blank" style="text-decoration: none">Visual Intelligence and Pattern Analysis (VIPA) Lab</a>, College of Computer Science and Technology @ <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. I received the B.Eng. degree from the School of Data and Computer Science, <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a>, in 2019. 
+I am currently pursuing the Ph.D. degree in the <a href="https://www.vipazoo.cn/" target="_blank" style="text-decoration: none">Visual Intelligence and Pattern Analysis (VIPA) Lab</a>, College of Computer Science and Technology @ <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. I received the B.Eng. degree from the School of Data and Computer Science, <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a>, in 2019. Please feel free to contact me if you are interested in my research :)
 
 My current research interests include 
 - **reinforcement learning**
@@ -42,7 +54,7 @@ Selected Publications 📝
 
 - **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
-  AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2023, **Oral**.
 
 - **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
