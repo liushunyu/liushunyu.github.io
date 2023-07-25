@@ -15,13 +15,13 @@ redirect_from:
 News 🔥
 ======
 
-- Jul. 2023: One papers was accepted by <a href="https://ecai2023.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
-- Jul. 2023: One papers was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59" target="_blank" style="text-decoration: none">IEEE Transactions on Power Systems</a>.
-- Jul. 2023: One papers was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" target="_blank" style="text-decoration: none">IEEE Transactions on Systems, Man and Cybernetics: Systems</a>.
-- May. 2023: One papers was accepted by <a href="https://kdd.org/kdd2023/" target="_blank" style="text-decoration: none">KDD 2023</a>.
-- Apr. 2023: One papers was accepted by <a href="https://iclr.cc/Conferences/2023" target="_blank" style="text-decoration: none">ICLR 2023 Tiny Paper</a>.
-- Nov. 2022: One papers was accepted by <a href="https://aaai-23.aaai.org/" target="_blank" style="text-decoration: none">AAAI 2023</a>.
-- Seq. 2022: One papers was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
+- Jul. 2023: One paper was accepted by <a href="https://ecai2023.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
+- Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59" target="_blank" style="text-decoration: none">IEEE Transactions on Power Systems</a>.
+- Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" target="_blank" style="text-decoration: none">IEEE Transactions on Systems, Man and Cybernetics: Systems</a>.
+- May. 2023: One paper was accepted by <a href="https://kdd.org/kdd2023/" target="_blank" style="text-decoration: none">KDD 2023</a>.
+- Apr. 2023: One paper was accepted by <a href="https://iclr.cc/Conferences/2023" target="_blank" style="text-decoration: none">ICLR 2023 Tiny Paper</a>.
+- Nov. 2022: One paper was accepted by <a href="https://aaai-23.aaai.org/" target="_blank" style="text-decoration: none">AAAI 2023</a>.
+- Seq. 2022: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
 
 
 <br>
