@@ -17,7 +17,7 @@ author_profile: false
 
 - **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
-  IEEE Transactions on Systems, Man and Cybernetics: Systems, 2023.
+  IEEE Transactions on Systems, Man and Cybernetics: Systems, to appear, 2023.
 
 
 - **Distribution Knowledge Embedding for Graph Pooling** <a href="https://arxiv.org/abs/2109.14333" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank" style="text-decoration: none">\[Code\]</a> \\
