@@ -35,12 +35,12 @@ $^*$ Equal Contribution.
 
 
 - **Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket** \\
-  Yuwen Wang<sup style="font-size: 1.0em">*</sup>, **<u>Shunyu Liu$^*$</u>**, Kaixuan Chen<sup style="font-size: 1.0em">*</sup>, Tongtian Zhu, Ji Qiao, Mengjie Shi, Yuanyu Wan, Mingli Song.\\
+  Yuwen Wang*, **<u>Shunyu Liu$^*$</u>**, Kaixuan Chen*, Tongtian Zhu, Ji Qiao, Mengjie Shi, Yuanyu Wan, Mingli Song.\\
   European Conference on Artificial Intelligence (ECAI), to appear, 2023.
 
 
 - **Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization** <a href="https://arxiv.org/abs/2305.19903" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/SuperNorm" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Kaixuan Chen<sup style="font-size: 1.0em">*</sup>, **<u>Shunyu Liu$^*$</u>**, Tongtian Zhu<sup style="font-size: 1.0em">*</sup>, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
+  Kaixuan Chen*, **<u>Shunyu Liu$^*$</u>**, Tongtian Zhu*, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
 
 - **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
