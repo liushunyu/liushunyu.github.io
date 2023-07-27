@@ -87,8 +87,8 @@ Academic Services
 
 
 ### Journal Reviewer
-  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
-  - Information Sciences (INS)
+  - IEEE Transactions on Knowledge and Data Engineering
+  - Information Sciences
 
 ### Conference Reviewer
   - ICLR 2023, ECAI 2023, ICONIP 2023
