@@ -12,9 +12,10 @@ redirect_from:
 
 <br>
 
-News 🔥
+News
 ======
 
+- Jul. 2023: One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications</a>.
 - Jul. 2023: One paper was accepted by <a href="https://ecai2023.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
 - Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59" target="_blank" style="text-decoration: none">IEEE Transactions on Power Systems</a>.
 - Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" target="_blank" style="text-decoration: none">IEEE Transactions on Systems, Man and Cybernetics: Systems</a>.
@@ -27,7 +28,7 @@ News 🔥
 <br>
 
 
-Biography 🌟 
+Biography
 ======
 
 
@@ -40,7 +41,7 @@ My current research interests include
 
 <br>
 
-Selected Publications 📝 
+Selected Publications
 ======
 
 
@@ -64,7 +65,7 @@ Selected Publications 📝
 
 <br>
 
-Awards & Honors 🎯 
+Awards & Honors
 ======
 
 ### Scholarship
@@ -81,7 +82,7 @@ Awards & Honors 🎯
 
 <br>
 
-Academic Services ⚖️ 
+Academic Services
 ======
 
 

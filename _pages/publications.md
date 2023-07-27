@@ -10,6 +10,10 @@ author_profile: false
 ## Journal
 
 
+- **Progressive Decision-Making Framework for Power System Topology Control**  \\
+  **<u>Shunyu Liu</u>**, Yanzhen Zhou, Mingli Song, Guangquan Bu, Jianbo Guo, Chun Chen.\\
+  Expert Systems with Applications, to appear, 2023.
+
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   **<u>Shunyu Liu</u>**, Wei Luo, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
