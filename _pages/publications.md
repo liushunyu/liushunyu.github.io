@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-
+$^*$ Equal Contribution.
 
 ## Journal
 
@@ -16,7 +16,7 @@ author_profile: false
 
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
-  **<u>Shunyu Liu</u>**, Wei Luo, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
+  **<u>Shunyu Liu$^*$</u>**, Wei Luo$^*$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
   IEEE Transactions on Power Systems, to appear, 2023.
 
 - **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
@@ -35,16 +35,16 @@ author_profile: false
 
 
 - **Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket** \\
-  Yuwen Wang, **<u>Shunyu Liu</u>**, Kaixuan Chen, Tongtian Zhu, Ji Qiao, Mengjie Shi, Yuanyu Wan, Mingli Song.\\
+  Yuwen Wang$^*$, **<u>Shunyu Liu$^*$</u>**, Kaixuan Chen$^*$, Tongtian Zhu, Ji Qiao, Mengjie Shi, Yuanyu Wan, Mingli Song.\\
   European Conference on Artificial Intelligence (ECAI), to appear, 2023.
 
 
 - **Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization** <a href="https://arxiv.org/abs/2305.19903" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/SuperNorm" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongtian Zhu, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
+  Kaixuan Chen$^*$, **<u>Shunyu Liu$^*$</u>**, Tongtian Zhu$^*$, Ji Qiao, Yun Su, Yingjie Tian, Tongya Zheng, Haofei Zhang, Zunlei Feng, Jingwen Ye, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2023.
 
 - **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Shunyu Liu</u>**, Yihe Zhou, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
+  **<u>Shunyu Liu$^*$</u>**, Yihe Zhou$^*$, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
   AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
 
@@ -84,7 +84,7 @@ author_profile: false
 
 
 - **Curricular Subgoals for Inverse Reinforcement Learning** <a href="https://arxiv.org/abs/2306.08232" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Plankson/CSIRL" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Shunyu Liu</u>**, Yunpeng Qing, Shuqi Xu, Hongyan Wu, Jiangtao Zhang, Jingyuan Cong, Tianhao Chen, Yunfu Liu, Mingli Song.\\
+  **<u>Shunyu Liu$^*$</u>**, Yunpeng Qing$^*$, Shuqi Xu, Hongyan Wu, Jiangtao Zhang, Jingyuan Cong, Tianhao Chen, Yunfu Liu, Mingli Song.\\
   arXiv preprint arXiv:2306.08232, 2023.
 
 
@@ -99,7 +99,7 @@ author_profile: false
 
 
 - **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Yihe Zhou, **<u>Shunyu Liu</u>**, Yunpeng Qing, Kaixuan Chen, Tongya Zheng, Yanhao Huang, Jie Song, Mingli Song. \\
+  Yihe Zhou$^*$, **<u>Shunyu Liu$^*$</u>**, Yunpeng Qing, Kaixuan Chen, Tongya Zheng, Yanhao Huang, Jie Song, Mingli Song. \\
   arXiv preprint arXiv:2305.17352, 2023.
 
 
