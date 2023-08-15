@@ -15,7 +15,7 @@ $^\dagger$ Equal Contribution.
   Expert Systems with Applications, to appear, 2023.
 
 
-- **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+- **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
   IEEE Transactions on Power Systems, to appear, 2023.
 
@@ -34,7 +34,12 @@ $^\dagger$ Equal Contribution.
 ## Conference
 
 
-- **Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket** \\
+- **Attribution Guided Layerwise Knowledge Amalgamation from Graph Neural Networks** \\
+  Yunzhi Hao, Yu Wang, **<u>Shunyu Liu</u>**, Tongya Zheng, Xingen Wang, Xinyu Wang, Mingli Song, Wenqi Huang, Chun Chen.\\
+  International Conference on Neural Information Processing (ICONIP), to appear, 2023.
+
+
+- **Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket** <a href="https://arxiv.org/abs/2308.02916" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Wangyuwen0627/ACE-GLT" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
   Yuwen Wang$^\dagger$, **<u>Shunyu Liu$^\dagger$</u>**, Kaixuan Chen$^\dagger$, Tongtian Zhu, Ji Qiao, Mengjie Shi, Yuanyu Wan, Mingli Song.\\
   European Conference on Artificial Intelligence (ECAI), to appear, 2023.
 
