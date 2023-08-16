@@ -17,11 +17,11 @@ $^\dagger$ Equal Contribution.
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
-  IEEE Transactions on Power Systems, to appear, 2023.
+  IEEE Transactions on Power Systems, 2023.
 
 - **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
-  IEEE Transactions on Systems, Man and Cybernetics: Systems, to appear, 2023.
+  IEEE Transactions on Systems, Man and Cybernetics: Systems, 2023.
 
 
 - **Distribution Knowledge Embedding for Graph Pooling** <a href="https://arxiv.org/abs/2109.14333" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank" style="text-decoration: none">\[Code\]</a> \\
