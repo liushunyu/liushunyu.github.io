@@ -10,9 +10,9 @@ $^\dagger$ Equal Contribution.
 ## Journal
 
 
-- **Progressive Decision-Making Framework for Power System Topology Control**  \\
+- **Progressive Decision-Making Framework for Power System Topology Control** <a href="https://www.sciencedirect.com/science/article/pii/S0957417423015725" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   **<u>Shunyu Liu</u>**, Yanzhen Zhou, Mingli Song, Guangquan Bu, Jianbo Guo, Chun Chen.\\
-  Expert Systems with Applications, to appear, 2023.
+  Expert Systems with Applications, 2023.
 
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
