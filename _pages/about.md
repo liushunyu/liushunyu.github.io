@@ -50,7 +50,7 @@ $^\dagger$ Equal Contribution.
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
   IEEE Transactions on Power Systems, 2023.
 
-- **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://ieeexplore.ieee.org/abstract/document/10210582" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
   IEEE Transactions on Systems, Man and Cybernetics: Systems, 2023.
 
