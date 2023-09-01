@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-$^\dagger$ Equal Contribution.
+$^\dagger$ Equal contribution.
 
 ## Journal
 
