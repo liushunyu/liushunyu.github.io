@@ -33,6 +33,10 @@ $^\dagger$ Equal contribution.
 
 ## Conference
 
+- **Lookaround Optimizer: $k$ steps around, 1 step average** <a href="https://arxiv.org/abs/2306.07684" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ardcy/Lookaround" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Jiangtao Zhang, **<u>Shunyu Liu</u>**, Jie Song, Tongtian Zhu, Zhengqi Xu, Mingli Song. \\
+  Advances in Neural Information Processing Systems (NeurIPS), to appear, 2023.
+
 
 - **Attribution Guided Layerwise Knowledge Amalgamation from Graph Neural Networks** \\
   Yunzhi Hao, Yu Wang, **<u>Shunyu Liu</u>**, Tongya Zheng, Xingen Wang, Xinyu Wang, Mingli Song, Wenqi Huang, Chun Chen.\\
@@ -98,9 +102,7 @@ $^\dagger$ Equal contribution.
   arXiv preprint arXiv:2306.09381, 2023.
 
 
-- **Lookaround Optimizer: $k$ steps around, 1 step average** <a href="https://arxiv.org/abs/2306.07684" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ardcy/Lookaround" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  Jiangtao Zhang, **<u>Shunyu Liu</u>**, Jie Song, Tongtian Zhu, Zhengqi Xu, Mingli Song. \\
-  arXiv preprint arXiv:2306.07684, 2023.
+
 
 
 - **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\

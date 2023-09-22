@@ -15,6 +15,7 @@ redirect_from:
 News
 ======
 
+- Sep. 2023: One paper was accepted by <a href="https://nips.cc/Conferences/2023" target="_blank" style="text-decoration: none">NeurIPS 2023</a>.
 - Jul. 2023: One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications</a>.
 - Jul. 2023: One paper was accepted by <a href="https://ecai2023.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
 - Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59" target="_blank" style="text-decoration: none">IEEE Transactions on Power Systems</a>.
