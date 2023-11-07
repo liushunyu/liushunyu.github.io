@@ -49,11 +49,11 @@ $^\dagger$ Equal contribution.
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
-  IEEE Transactions on Power Systems, 2023.
+  IEEE Transactions on Power Systems, 2023. (IF=6.6)
 
 - **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://ieeexplore.ieee.org/abstract/document/10210582" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
-  IEEE Transactions on Systems, Man and Cybernetics: Systems, 2023.
+  IEEE Transactions on Systems, Man and Cybernetics: Systems, 2023. (IF=8.7)
 
 - **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu$^\dagger$</u>**, Yihe Zhou$^\dagger$, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\

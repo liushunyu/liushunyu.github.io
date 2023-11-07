@@ -10,23 +10,24 @@ $^\dagger$ Equal contribution.
 ## Journal
 
 
-- **Progressive Decision-Making Framework for Power System Topology Control** <a href="https://www.sciencedirect.com/science/article/pii/S0957417423015725" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
-  **<u>Shunyu Liu</u>**, Yanzhen Zhou, Mingli Song, Guangquan Bu, Jianbo Guo, Chun Chen.\\
-  Expert Systems with Applications, 2023.
-
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
-  IEEE Transactions on Power Systems, 2023.
+  IEEE Transactions on Power Systems, 2023. **(IF=6.6)**
 
 - **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://ieeexplore.ieee.org/abstract/document/10210582" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
-  IEEE Transactions on Systems, Man and Cybernetics: Systems, 2023.
+  IEEE Transactions on Systems, Man and Cybernetics: Systems, 2023. **(IF=8.7)**
+
+
+- **Progressive Decision-Making Framework for Power System Topology Control** <a href="https://www.sciencedirect.com/science/article/pii/S0957417423015725" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+  **<u>Shunyu Liu</u>**, Yanzhen Zhou, Mingli Song, Guangquan Bu, Jianbo Guo, Chun Chen.\\
+  Expert Systems with Applications, 2023. **(IF=8.5)**
 
 
 - **Distribution Knowledge Embedding for Graph Pooling** <a href="https://ieeexplore.ieee.org/abstract/document/9896198/" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
-  IEEE Transactions on Knowledge and Data Engineering, 2022. 
+  IEEE Transactions on Knowledge and Data Engineering, 2022. **(IF=8.9)**
 
 
 
@@ -45,7 +46,7 @@ $^\dagger$ Equal contribution.
 
 - **Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket** <a href="https://arxiv.org/abs/2308.02916" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Wangyuwen0627/ACE-GLT" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
   Yuwen Wang$^\dagger$, **<u>Shunyu Liu$^\dagger$</u>**, Kaixuan Chen$^\dagger$, Tongtian Zhu, Ji Qiao, Mengjie Shi, Yuanyu Wan, Mingli Song.\\
-  European Conference on Artificial Intelligence (ECAI), to appear, 2023.
+  European Conference on Artificial Intelligence (ECAI), 2023.
 
 
 - **Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization** <a href="https://arxiv.org/abs/2305.19903" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/SuperNorm" target="_blank" style="text-decoration: none">\[Code\]</a> \\
