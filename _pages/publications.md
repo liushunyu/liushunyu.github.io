@@ -36,12 +36,12 @@ $^\dagger$ Equal contribution.
 
 - **Lookaround Optimizer: $k$ steps around, 1 step average** <a href="https://arxiv.org/abs/2306.07684" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ardcy/Lookaround" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Jiangtao Zhang, **<u>Shunyu Liu</u>**, Jie Song, Tongtian Zhu, Zhengqi Xu, Mingli Song. \\
-  Advances in Neural Information Processing Systems (NeurIPS), to appear, 2023.
+  Advances in Neural Information Processing Systems (NeurIPS), 2023.
 
 
-- **Attribution Guided Layerwise Knowledge Amalgamation from Graph Neural Networks** \\
+- **Attribution Guided Layerwise Knowledge Amalgamation from Graph Neural Networks** <a href="https://www.springerprofessional.de/attribution-guided-layerwise-knowledge-amalgamation-from-graph-n/26298874" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Yunzhi Hao, Yu Wang, **<u>Shunyu Liu</u>**, Tongya Zheng, Xingen Wang, Xinyu Wang, Mingli Song, Wenqi Huang, Chun Chen.\\
-  International Conference on Neural Information Processing (ICONIP), to appear, 2023.
+  International Conference on Neural Information Processing (ICONIP), 2023.
 
 
 - **Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket** <a href="https://arxiv.org/abs/2308.02916" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Wangyuwen0627/ACE-GLT" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
