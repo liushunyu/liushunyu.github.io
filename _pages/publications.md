@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-$^\dagger$ Equal contribution.
+$^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Journal
 
@@ -90,7 +90,9 @@ $^\dagger$ Equal contribution.
 
 ## Preprint
 
-
+- **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning** <a href="https://arxiv.org/abs/2311.16807" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+  Yaoquan Wei, **<u>Shunyu Liu$^*$</u>**, Jie Song, Tongya Zheng, Kaixuan Chen, Yong Wang, Mingli Song.\\
+  arXiv preprint arXiv:2311.16807, 2023.
 
 
 - **Curricular Subgoals for Inverse Reinforcement Learning** <a href="https://arxiv.org/abs/2306.08232" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Plankson/CSIRL" target="_blank" style="text-decoration: none">\[Code\]</a> \\
@@ -101,9 +103,6 @@ $^\dagger$ Equal contribution.
 - **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Yu Wang, Tongya Zheng, **<u>Shunyu Liu</u>**, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
   arXiv preprint arXiv:2306.09381, 2023.
-
-
-
 
 
 - **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
