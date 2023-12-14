@@ -70,10 +70,12 @@ Awards & Honors
 ======
 
 ### Scholarship
-  - National Scholarship, Ministry of Education of the People's Republic of China, 2018.
   - Outstanding Undergraduate Student Scholarship, Sun Yat-sen University, 2015-2018.
+  - National Scholarship, Ministry of Education of the People's Republic of China, 2018.
+  - Outstanding Graduate Student Award, Zhejiang University, 2019-2023.
   - Outstanding Ph.D. Student Scholarship, Zhejiang University, 2021.
-  - Outstanding Graduate Student Award, Zhejiang University, 2019-2021.
+  - Chen Tianzhou Scholarship, Zhejiang University, 2023.
+
 
 ### Competition
   - Meritorious Winner in "Mathematical Contest in Modeling", COMAP, 2018.
@@ -93,4 +95,6 @@ Academic Services
 
 ### Conference Reviewer
   - ICLR 2023, ECAI 2023, ICONIP 2023
+
+
 
