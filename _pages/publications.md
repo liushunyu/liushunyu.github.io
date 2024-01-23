@@ -20,7 +20,7 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
   IEEE Transactions on Systems, Man and Cybernetics: Systems, 2023.
 
 
-- **Progressive Decision-Making Framework for Power System Topology Control** <a href="https://www.sciencedirect.com/science/article/pii/S0957417423015725" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+- **Progressive Decision-Making Framework for Power System Topology Control** <a href="https://www.sciencedirect.com/science/article/pii/S0957417423015725" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/PAC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Yanzhen Zhou, Mingli Song, Guangquan Bu, Jianbo Guo, Chun Chen.\\
   Expert Systems with Applications, 2023.
 
@@ -33,6 +33,11 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 
 ## Conference
+
+- **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation** \\
+  Yu Wang, Tongya Zheng, Yuxuan Liang, **<u>Shunyu Liu</u>**, Mingli Song. \\
+  International World Wide Web Conference (WWW), to appear, 2024.
+
 
 - **Lookaround Optimizer: $k$ steps around, 1 step average** <a href="https://arxiv.org/abs/2306.07684" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ardcy/Lookaround" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Jiangtao Zhang, **<u>Shunyu Liu</u>**, Jie Song, Tongtian Zhu, Zhengqi Xu, Mingli Song. \\

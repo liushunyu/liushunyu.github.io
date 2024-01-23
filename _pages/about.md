@@ -15,6 +15,7 @@ redirect_from:
 News
 ======
 
+- Jan. 2024: One paper was accepted by <a href="https://www2024.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2024</a>.
 - Sep. 2023: One paper was accepted by <a href="https://nips.cc/Conferences/2023" target="_blank" style="text-decoration: none">NeurIPS 2023</a>.
 - Jul. 2023: One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications</a>.
 - Jul. 2023: One paper was accepted by <a href="https://ecai2023.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
