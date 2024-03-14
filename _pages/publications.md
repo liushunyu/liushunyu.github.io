@@ -9,7 +9,9 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Journal
 
-
+- **Multi-Agent Continuous Control with Generative Flow Networks** \\
+  Shuang Luo, Yinchuan Li, **<u>Shunyu Liu</u>**, Xu Zhang, Yunfeng Shao, Chao Wu.\\
+  Neural Networks, to appear, 2024.
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
@@ -34,9 +36,9 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Conference
 
-- **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation** \\
+- **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation** <a href="https://arxiv.org/abs/2403.01801" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/Cross-city-Mobility-Transformer" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yu Wang, Tongya Zheng, Yuxuan Liang, **<u>Shunyu Liu</u>**, Mingli Song. \\
-  International World Wide Web Conference (WWW), to appear, 2024.
+  International World Wide Web Conference (WWW), 2024.
 
 
 - **Lookaround Optimizer: $k$ steps around, 1 step average** <a href="https://arxiv.org/abs/2306.07684" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Ardcy/Lookaround" target="_blank" style="text-decoration: none">\[Code\]</a> \\
@@ -94,6 +96,22 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 
 ## Preprint
+
+
+- **Advantage-Aware Policy Optimization for Offline Reinforcement Learning** <a href="https://arxiv.org/abs/2403.07262" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+  Yunpeng Qing, **<u>Shunyu Liu</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
+  arXiv preprint arXiv:2403.07262, 2024.
+
+
+- **Disentangled Condensation for Large-scale Graphs** <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/BangHonor/DisCo" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
+  Zhenbang Xiao, **<u>Shunyu Liu</u>**, Yu Wang, Tongya Zheng, Mingli Song.\\
+  arXiv preprint arXiv:2401.12231, 2024.
+
+
+- **Powerformer: A Section-adaptive Transformer for Power Flow Adjustment** <a href="https://arxiv.org/abs/2401.02771" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+  Kaixuan Chen, Wei Luo, **<u>Shunyu Liu</u>**, Yaoquan Wei, Yihe Zhou, Yunpeng Qing, Quan Zhang, Jie Song, Mingli Song.\\
+  arXiv preprint arXiv:2401.02771, 2024.
+
 
 - **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning** <a href="https://arxiv.org/abs/2311.16807" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   Yaoquan Wei, **<u>Shunyu Liu$^*$</u>**, Jie Song, Tongya Zheng, Kaixuan Chen, Yong Wang, Mingli Song.\\

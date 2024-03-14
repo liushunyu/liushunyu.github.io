@@ -15,6 +15,7 @@ redirect_from:
 News
 ======
 
+- Mar. 2024: One paper was accepted by <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" style="text-decoration: none">Neural Networks</a>.
 - Jan. 2024: One paper was accepted by <a href="https://www2024.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2024</a>.
 - Sep. 2023: One paper was accepted by <a href="https://nips.cc/Conferences/2023" target="_blank" style="text-decoration: none">NeurIPS 2023</a>.
 - Jul. 2023: One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications</a>.
@@ -93,9 +94,10 @@ Academic Services
 ### Journal Reviewer
   - IEEE Transactions on Knowledge and Data Engineering
   - Information Sciences
+  - Autonomous Agents and Multi-Agent Systems
 
 ### Conference Reviewer
-  - ICLR 2023, ECAI 2023, ICONIP 2023
+  - KDD 2024, ICLR 2023, ECAI 2023, ICONIP 2023
 
 
 
