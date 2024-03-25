@@ -9,9 +9,9 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Journal
 
-- **Multi-Agent Continuous Control with Generative Flow Networks** \\
+- **Multi-Agent Continuous Control with Generative Flow Networks** <a href="https://www.sciencedirect.com/science/article/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/isluoshuang/MACFN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Shuang Luo, Yinchuan Li, **<u>Shunyu Liu</u>**, Xu Zhang, Yunfeng Shao, Chao Wu.\\
-  Neural Networks, to appear, 2024.
+  Neural Networks, 2024.
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
