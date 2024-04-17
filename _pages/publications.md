@@ -108,6 +108,11 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Preprint
 
+- **Simple Graph Condensation** <a href="https://arxiv.org/pdf/2403.14951" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+  Zhenbang Xiao, Yu Wang, **<u>Shunyu Liu</u>**, Huiqiong Wang, Mingli Song, Tongya Zheng.\\
+  arXiv preprint arXiv:2403.14951, 2024.
+
+
 
 - **Advantage-Aware Policy Optimization for Offline Reinforcement Learning** <a href="https://arxiv.org/abs/2403.07262" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   Yunpeng Qing, **<u>Shunyu Liu</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
