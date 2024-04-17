@@ -36,6 +36,17 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Conference
 
+
+- **Improving Adversarial Robustness via Feature Pattern Consistency Constraint** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+  Jiacong Hu, Jingwen Ye, Zunlei Feng, Jiazhen Yang, **<u>Shunyu Liu</u>**, Xiaotian Yu, Lingxiang Jia, Mingli Song. \\
+  International Joint Conference on Artificial  Intelligence (IJCAI), 2024.
+
+
+- **Multi-Channel Graph Fusion Representation for Tabular Data Imputation** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+  Na Yu, Ke Xu, Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongya Zheng, Mingli Song. \\
+  International Joint Conference on Neural Networks (IJCNN), 2024.
+
+
 - **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation** <a href="https://arxiv.org/abs/2403.01801" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/Cross-city-Mobility-Transformer" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yu Wang, Tongya Zheng, Yuxuan Liang, **<u>Shunyu Liu</u>**, Mingli Song. \\
   International World Wide Web Conference (WWW), 2024.

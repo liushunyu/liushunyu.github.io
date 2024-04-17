@@ -15,6 +15,7 @@ redirect_from:
 News
 ======
 
+- Apr. 2024: One paper was accepted by <a href="https://ijcai24.org/" target="_blank" style="text-decoration: none">IJCAI 2024</a>.
 - Mar. 2024: One paper was accepted by <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" style="text-decoration: none">Neural Networks</a>.
 - Jan. 2024: One paper was accepted by <a href="https://www2024.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2024</a>.
 - Sep. 2023: One paper was accepted by <a href="https://nips.cc/Conferences/2023" target="_blank" style="text-decoration: none">NeurIPS 2023</a>.
