@@ -9,7 +9,7 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Journal
 
-- **Multi-Agent Continuous Control with Generative Flow Networks** <a href="https://www.sciencedirect.com/science/article/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/isluoshuang/MACFN" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Multi-Agent Continuous Control with Generative Flow Networks** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   Shuang Luo, Yinchuan Li, **<u>Shunyu Liu</u>**, Xu Zhang, Yunfeng Shao, Chao Wu.\\
   Neural Networks, 2024.
 
@@ -37,12 +37,12 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 ## Conference
 
 
-- **Improving Adversarial Robustness via Feature Pattern Consistency Constraint** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+- **Improving Adversarial Robustness via Feature Pattern Consistency Constraint**  \\
   Jiacong Hu, Jingwen Ye, Zunlei Feng, Jiazhen Yang, **<u>Shunyu Liu</u>**, Xiaotian Yu, Lingxiang Jia, Mingli Song. \\
   International Joint Conference on Artificial  Intelligence (IJCAI), 2024.
 
 
-- **Multi-Channel Graph Fusion Representation for Tabular Data Imputation** <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+- **Multi-Channel Graph Fusion Representation for Tabular Data Imputation**  \\
   Na Yu, Ke Xu, Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongya Zheng, Mingli Song. \\
   International Joint Conference on Neural Networks (IJCNN), 2024.
 
