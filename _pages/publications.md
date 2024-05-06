@@ -9,6 +9,14 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 ## Journal
 
+
+
+
+- **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
+  IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024. 
+
+
 - **Multi-Agent Continuous Control with Generative Flow Networks** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
   Shuang Luo, Yinchuan Li, **<u>Shunyu Liu</u>**, Xu Zhang, Yunfeng Shao, Chao Wu.\\
   Neural Networks, 2024.
@@ -147,12 +155,6 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 - **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Yihe Zhou$^\dagger$, **<u>Shunyu Liu$^\dagger$</u>**, Yunpeng Qing, Kaixuan Chen, Tongya Zheng, Yanhao Huang, Jie Song, Mingli Song. \\
   arXiv preprint arXiv:2305.17352, 2023.
-
-
-
-- **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
-  arXiv preprint arXiv:2207.03902, 2022. 
 
 
 

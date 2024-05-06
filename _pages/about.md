@@ -15,6 +15,7 @@ redirect_from:
 News
 ======
 
+- May. 2024: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank" style="text-decoration: none">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>.
 - Apr. 2024: One paper was accepted by <a href="https://ijcai24.org/" target="_blank" style="text-decoration: none">IJCAI 2024</a>.
 - Mar. 2024: One paper was accepted by <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" style="text-decoration: none">Neural Networks</a>.
 - Jan. 2024: One paper was accepted by <a href="https://www2024.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2024</a>.
@@ -50,6 +51,10 @@ Selected Publications
 
 $^\dagger$ Equal contribution.
 
+- **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
+  IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024. 
+
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
   IEEE Transactions on Power Systems, 2023.
@@ -62,9 +67,7 @@ $^\dagger$ Equal contribution.
   **<u>Shunyu Liu$^\dagger$</u>**, Yihe Zhou$^\dagger$, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
   AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.
 
-- **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
-  **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
-  arXiv preprint arXiv:2207.03902, 2022. 
+
 
 
 <br>
