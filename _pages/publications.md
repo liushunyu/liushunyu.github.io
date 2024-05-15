@@ -12,7 +12,7 @@ $^\dagger$ Equal contribution. $^*$ Corresponding author.
 
 
 
-- **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+- **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://ieeexplore.ieee.org/document/10529613" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024. 
 
