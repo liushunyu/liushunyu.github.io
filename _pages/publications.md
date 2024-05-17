@@ -45,12 +45,12 @@ $^\dagger$ Equal contribution. $^✉️$ Corresponding author.
 ## Conference
 
 - **Temporal Prototype-Aware Learning for Active Voltage Control on Power Distribution Networks**  \\
-  Feiyang Xu, **<u>Shunyu Liu$^*$</u>**, Yunpeng Qing, Yihe Zhou, Yuwen Wang, Mingli Song. \\
+  Feiyang Xu, **<u>Shunyu Liu$^✉️$</u>**, Yunpeng Qing, Yihe Zhou, Yuwen Wang, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 
 - **Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks**  \\
-  Yuwen Wang, **<u>Shunyu Liu$^*$</u>**, Tongya Zheng, Kaixuan Chen, Mingli Song. \\
+  Yuwen Wang, **<u>Shunyu Liu$^✉️$</u>**, Tongya Zheng, Kaixuan Chen, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 
