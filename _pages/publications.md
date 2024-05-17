@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-$^\dagger$ Equal contribution. $^✉️$ Corresponding author.
+$^\dagger$Equal contribution. $^✉️$Corresponding author.
 
 ## Journal
 
@@ -147,7 +147,7 @@ $^\dagger$ Equal contribution. $^✉️$ Corresponding author.
 
 
 - **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning** <a href="https://arxiv.org/abs/2311.16807" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
-  Yaoquan Wei, **<u>Shunyu Liu$^*$</u>**, Jie Song, Tongya Zheng, Kaixuan Chen, Yong Wang, Mingli Song.\\
+  Yaoquan Wei, **<u>Shunyu Liu$^✉️$</u>**, Jie Song, Tongya Zheng, Kaixuan Chen, Yong Wang, Mingli Song.\\
   arXiv preprint arXiv:2311.16807, 2023.
 
 
