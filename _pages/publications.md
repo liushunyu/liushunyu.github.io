@@ -44,6 +44,10 @@ $^\dagger$Equal contribution. $^✉️$Corresponding author.
 
 ## Conference
 
+- **Simple Graph Condensation** <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+  Zhenbang Xiao, Yu Wang, **<u>Shunyu Liu</u>**, Huiqiong Wang, Mingli Song, Tongya Zheng.\\
+  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024.
+
 - **Temporal Prototype-Aware Learning for Active Voltage Control on Power Distribution Networks**  \\
   Feiyang Xu, **<u>Shunyu Liu$^✉️$</u>**, Yunpeng Qing, Yihe Zhou, Yuwen Wang, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
@@ -124,11 +128,6 @@ $^\dagger$Equal contribution. $^✉️$Corresponding author.
 
 
 ## Preprint
-
-- **Simple Graph Condensation** <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
-  Zhenbang Xiao, Yu Wang, **<u>Shunyu Liu</u>**, Huiqiong Wang, Mingli Song, Tongya Zheng.\\
-  arXiv preprint arXiv:2403.14951, 2024.
-
 
 
 - **Advantage-Aware Policy Optimization for Offline Reinforcement Learning** <a href="https://arxiv.org/abs/2403.07262" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\

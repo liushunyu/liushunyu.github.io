@@ -15,6 +15,7 @@ redirect_from:
 News
 ======
 
+- May. 2024: One papers was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML-PKDD 2024</a>.
 - May. 2024: Two papers were accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.
 - May. 2024: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank" style="text-decoration: none">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>.
 - Apr. 2024: One paper was accepted by <a href="https://ijcai24.org/" target="_blank" style="text-decoration: none">IJCAI 2024</a>.
