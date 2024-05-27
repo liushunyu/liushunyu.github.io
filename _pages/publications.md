@@ -44,7 +44,7 @@ $^\dagger$Equal contribution. $^✉️$Corresponding author.
 
 ## Conference
 
-- **Simple Graph Condensation** <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+- **Simple Graph Condensation** <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/BangHonor/SimGC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Zhenbang Xiao, Yu Wang, **<u>Shunyu Liu</u>**, Huiqiong Wang, Mingli Song, Tongya Zheng.\\
   European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024.
 
