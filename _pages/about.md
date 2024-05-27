@@ -102,7 +102,7 @@ Academic Services
   - Autonomous Agents and Multi-Agent Systems
 
 ### Conference Reviewer
-  - KDD 2024, ICLR 2023, ECAI 2023, ICONIP 2023
+  - NeurIPS 2024, KDD 2024, ICLR 2023, ECAI 2023, ICONIP 2023
 
 
 
