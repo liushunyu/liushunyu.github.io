@@ -9,7 +9,9 @@ $^\dagger$Equal contribution. $^✉️$Corresponding author.
 
 ## Journal
 
-
+- **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Star607/STAR-TKDE" target="_blank" style="text-decoration: none">\[Code\]</a> \\
+  Yu Wang, Tongya Zheng, **<u>Shunyu Liu</u>**, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
+  IEEE Transactions on Knowledge and Data Engineering, 2024.
 
 
 - **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://ieeexplore.ieee.org/document/10529613" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
@@ -17,7 +19,7 @@ $^\dagger$Equal contribution. $^✉️$Corresponding author.
   IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024. 
 
 
-- **Multi-Agent Continuous Control with Generative Flow Networks** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+- **Multi-Agent Continuous Control with Generative Flow Networks** <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/isluoshuang/MACFN" target="_blank" style="text-decoration: none">\[Code\]</a>  \\
   Shuang Luo, Yinchuan Li, **<u>Shunyu Liu</u>**, Xu Zhang, Yunfeng Shao, Chao Wu.\\
   Neural Networks, 2024.
 
@@ -25,10 +27,10 @@ $^\dagger$Equal contribution. $^✉️$Corresponding author.
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
   IEEE Transactions on Power Systems, 2023.
 
+
 - **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://ieeexplore.ieee.org/abstract/document/10210582" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
   IEEE Transactions on Systems, Man and Cybernetics: Systems, 2023.
-
 
 - **Progressive Decision-Making Framework for Power System Topology Control** <a href="https://www.sciencedirect.com/science/article/pii/S0957417423015725" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/PAC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Yanzhen Zhou, Mingli Song, Guangquan Bu, Jianbo Guo, Chun Chen.\\
@@ -155,9 +157,7 @@ $^\dagger$Equal contribution. $^✉️$Corresponding author.
   arXiv preprint arXiv:2306.08232, 2023.
 
 
-- **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** <a href="https://arxiv.org/abs/2306.09381" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
-  Yu Wang, Tongya Zheng, **<u>Shunyu Liu</u>**, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
-  arXiv preprint arXiv:2306.09381, 2023.
+
 
 
 - **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> \\
