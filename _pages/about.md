@@ -15,22 +15,22 @@ redirect_from:
 News
 ======
 
-- May. 2024: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
+- May. 2024: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering (TKDE)</a>.
 - May. 2024: One papers was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML-PKDD 2024</a>.
 - May. 2024: Two papers were accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.
-- May. 2024: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank" style="text-decoration: none">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>.
+- May. 2024: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank" style="text-decoration: none">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</a>.
 - Apr. 2024: One paper was accepted by <a href="https://ijcai24.org/" target="_blank" style="text-decoration: none">IJCAI 2024</a>.
-- Mar. 2024: One paper was accepted by <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" style="text-decoration: none">Neural Networks</a>.
+- Mar. 2024: One paper was accepted by <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" style="text-decoration: none">Neural Networks (NN)</a>.
 - Jan. 2024: One paper was accepted by <a href="https://www2024.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2024</a>.
 - Sep. 2023: One paper was accepted by <a href="https://nips.cc/Conferences/2023" target="_blank" style="text-decoration: none">NeurIPS 2023</a>.
-- Jul. 2023: One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications</a>.
+- Jul. 2023: One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications (ESWA)</a>.
 - Jul. 2023: One paper was accepted by <a href="https://ecai2023.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
-- Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59" target="_blank" style="text-decoration: none">IEEE Transactions on Power Systems</a>.
-- Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" target="_blank" style="text-decoration: none">IEEE Transactions on Systems, Man and Cybernetics: Systems</a>.
+- Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59" target="_blank" style="text-decoration: none">IEEE Transactions on Power Systems (TPS)</a>.
+- Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" target="_blank" style="text-decoration: none">IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC)</a>.
 - May 2023: One paper was accepted by <a href="https://kdd.org/kdd2023/" target="_blank" style="text-decoration: none">KDD 2023</a>.
 - Apr. 2023: One paper was accepted by <a href="https://iclr.cc/Conferences/2023" target="_blank" style="text-decoration: none">ICLR 2023 Tiny Paper</a>.
 - Nov. 2022: One paper was accepted by <a href="https://aaai-23.aaai.org/" target="_blank" style="text-decoration: none">AAAI 2023</a>.
-- Seq. 2022: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
+- Seq. 2022: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering (TKDE)</a>.
 
 
 <br>
@@ -57,15 +57,15 @@ $^\dagger$ Equal contribution.
 
 - **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning** <a href="https://ieeexplore.ieee.org/document/10529613" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
-  IEEE Transactions on Pattern Analysis and Machine Intelligence, 2024. 
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. 
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
-  IEEE Transactions on Power Systems, 2023.
+  IEEE Transactions on Power Systems (TPS), 2023.
 
 - **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework** <a href="https://ieeexplore.ieee.org/abstract/document/10210582" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
-  IEEE Transactions on Systems, Man and Cybernetics: Systems, 2023.
+  IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), 2023.
 
 - **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   **<u>Shunyu Liu$^\dagger$</u>**, Yihe Zhou$^\dagger$, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
@@ -91,6 +91,7 @@ Awards & Honors
   - Meritorious Winner in "Mathematical Contest in Modeling", COMAP, 2018.
   - Ranked 9th in "Advanced Power System AI Application Competition", State Grid Corporation of China, 2022
   - Ranked 5th in "L2RPN Challenge - Energies of the Future and Carbon Neutrality", WCCI, 2022.
+  - Ranked 3rd in "Power System Dispatching AI Application Competition", China Southern Power Grid, 2022.
   - Ranked 3rd in "Power System Dispatching AI Application Competition", China Southern Power Grid, 2023.
 
 <br>
@@ -100,9 +101,9 @@ Academic Services
 
 
 ### Journal Reviewer
-  - IEEE Transactions on Knowledge and Data Engineering
-  - Information Sciences
-  - Autonomous Agents and Multi-Agent Systems
+  - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+  - Information Sciences (INS)
+  - Autonomous Agents and Multi-Agent Systems (AAMAS)
 
 ### Conference Reviewer
   - NeurIPS 2024, KDD 2024, ICLR 2023, ECAI 2023, ICONIP 2023
