@@ -142,7 +142,7 @@ $^\dagger$Equal contribution. $^✉️$Corresponding author.
   arXiv preprint arXiv:2401.12231, 2024.
 
 
-- **Powerformer: A Section-adaptive Transformer for Power Flow Adjustment** <a href="https://arxiv.org/abs/2401.02771" target="_blank" style="text-decoration: none">\[Paper\]</a>  \\
+- **Powerformer: A Section-adaptive Transformer for Power Flow Adjustment** <a href="https://arxiv.org/abs/2401.02771" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/chenchkx/Powerformer" target="_blank" style="text-decoration: none">\[Code\]</a> \\
   Kaixuan Chen, Wei Luo, **<u>Shunyu Liu</u>**, Yaoquan Wei, Yihe Zhou, Yunpeng Qing, Quan Zhang, Jie Song, Mingli Song.\\
   arXiv preprint arXiv:2401.02771, 2024.
 
