@@ -60,7 +60,7 @@ $^\dagger$Equal contribution. $^✉️$Corresponding author.
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
 
 
-- **Improving Adversarial Robustness via Feature Pattern Consistency Constraint**  \\
+- **Improving Adversarial Robustness via Feature Pattern Consistency Constraint** <a href="https://arxiv.org/abs/2406.08829" target="_blank" style="text-decoration: none">\[Paper\]</a> \\
   Jiacong Hu, Jingwen Ye, Zunlei Feng, Jiazhen Yang, **<u>Shunyu Liu</u>**, Xiaotian Yu, Lingxiang Jia, Mingli Song. \\
   International Joint Conference on Artificial  Intelligence (IJCAI), 2024.
 
