@@ -53,7 +53,7 @@ My current research interests include
 Selected Publications
 ======
 
-$^\dagger$ denotes qual contribution, and $^✉️$ denotes the corresponding author.
+$^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
 - **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**  \\
   **<u>Shunyu Liu</u>**, Jie Song$^✉️$, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: false
 ---
 
-$^\dagger$ denotes qual contribution, and $^✉️$ denotes the corresponding author.
+$^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
 ## Journal
 
