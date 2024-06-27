@@ -24,9 +24,9 @@ The long-term goal of my research is to develop efficient, generalized, and prac
 <br>
 
 
-News
+# News
 ---
-======
+
 
 - [May. 2024] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
 - [May. 2024] One paper was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML-PKDD 2024</a>.
@@ -51,9 +51,9 @@ News
 
 
 
-Selected Publications
+# Selected Publications
 ---
-======
+
 
 
 $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
@@ -83,9 +83,9 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 <br>
 
-Awards & Honors
+# Awards & Honors
 ---
-======
+
 
 
 ### Scholarship
@@ -105,9 +105,9 @@ Awards & Honors
 
 <br>
 
-Academic Services
+# Academic Services
 ---
-======
+
 
 
 
