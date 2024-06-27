@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
----
 
 
 I received the Ph.D. degree from the College of Computer Science and Technology at <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a> in 2024, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>, and received the B.Eng. degree in Software Engineering from <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a> in 2019. 
@@ -26,6 +25,7 @@ The long-term goal of my research is to develop efficient, generalized, and prac
 
 
 News
+---
 ======
 
 - [May. 2024] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
@@ -52,8 +52,9 @@ News
 
 
 Selected Publications
-======
 ---
+======
+
 
 $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
@@ -83,8 +84,9 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 <br>
 
 Awards & Honors
-======
 ---
+======
+
 
 ### Scholarship
   - Outstanding Undergraduate Student Scholarship, Sun Yat-sen University, 2015-2018.
@@ -104,8 +106,9 @@ Awards & Honors
 <br>
 
 Academic Services
-======
 ---
+======
+
 
 
 ### Journal Reviewer
