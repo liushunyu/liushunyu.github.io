@@ -10,6 +10,25 @@ redirect_from:
 
 **Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
 
+
+Short Biography
+======
+---
+
+
+I received the Ph.D. degree from the College of Computer Science and Technology at <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a> in 2024, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>, and received the B.Eng. degree in Software Engineering from <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a> in 2019. Please feel free to contact me if you are interested in my research :)
+
+My current research interests include 
+- **reinforcement learning**
+- **multi-agent learning**
+- **graph learning**
+- **power system dispatch and control**
+
+The long-term goal of my research is to develop efficient, generalized, and practical agents. In tandem with this, my research strives to facilitate intelligent interaction among multiple agents, empowering them to tackle complex decision-making challenges in both the virtual and real worlds.
+
+<br>
+
+
 <br>
 
 News
@@ -36,22 +55,11 @@ News
 <br>
 
 
-Biography
-======
 
-
-I am currently pursuing the Ph.D. degree in the <a href="https://www.vipazoo.cn/" target="_blank" style="text-decoration: none">Visual Intelligence and Pattern Analysis (VIPA) Lab</a>, College of Computer Science and Technology @ <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a>, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>. I received the B.Eng. degree from the School of Data and Computer Science, <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a>, in 2019. Please feel free to contact me if you are interested in my research :)
-
-My current research interests include 
-- **reinforcement learning**
-- **multi-agent learning**
-- **graph learning**
-- **power system dispatch and control**
-
-<br>
 
 Selected Publications
 ======
+---
 
 $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
@@ -82,6 +90,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 Awards & Honors
 ======
+---
 
 ### Scholarship
   - Outstanding Undergraduate Student Scholarship, Sun Yat-sen University, 2015-2018.
@@ -102,6 +111,7 @@ Awards & Honors
 
 Academic Services
 ======
+---
 
 
 ### Journal Reviewer
