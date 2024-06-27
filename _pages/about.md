@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shunyu Liu / 刘顺宇"
+title: "Short Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Ph.D. Student** \| **Visual Intelligence and Pattern Analysis Lab** \| **Zhejiang University**
 
-
-Short Biography
-======
 ---
 
 
