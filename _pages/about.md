@@ -1,6 +1,7 @@
 ---
 permalink: /
 excerpt: "About me"
+title: "Short Biography"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +9,6 @@ redirect_from:
 ---
 
 
-# Short Biography
 ---
 
 I received the Ph.D. degree from the College of Computer Science and Technology at <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a> in 2024, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>, and received the B.Eng. degree in Software Engineering from <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a> in 2019. 
