@@ -25,8 +25,6 @@ The long-term goal of my research is to develop efficient, generalized, and prac
 <br>
 
 
-<br>
-
 News
 ======
 
