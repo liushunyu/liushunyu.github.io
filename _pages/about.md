@@ -1,7 +1,7 @@
 ---
 permalink: /
 excerpt: "About me"
-title: "Short Biography"
+title: "Shunyu Liu (刘顺宇)"
 author_profile: true
 redirect_from: 
   - /about/
