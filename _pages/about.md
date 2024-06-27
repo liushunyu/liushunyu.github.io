@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 
-I received the Ph.D. degree from the College of Computer Science and Technology at <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a> in 2024, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>, and received the B.Eng. degree in Software Engineering from <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a> in 2019. Please feel free to contact me if you are interested in my research :)
+I received the Ph.D. degree from the College of Computer Science and Technology at <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a> in 2024, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>, and received the B.Eng. degree in Software Engineering from <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a> in 2019. 
 
 My current research interests include 
 - **reinforcement learning**
@@ -20,7 +20,7 @@ My current research interests include
 - **graph learning**
 - **power system dispatch and control**
 
-The long-term goal of my research is to develop efficient, generalized, and practical agents. In tandem with this, my research strives to facilitate intelligent interaction among multiple agents, empowering them to tackle complex decision-making challenges in both the virtual and real worlds.
+The long-term goal of my research is to develop efficient, generalized, and practical agents. In tandem with this, my research strives to facilitate intelligent interaction among multiple agents, empowering them to tackle complex decision-making challenges in both the virtual and real worlds. Please feel free to contact me if you are interested in my research :)
 
 <br>
 
