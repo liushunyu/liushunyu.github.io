@@ -34,22 +34,22 @@ The long-term goal of my research is to develop efficient, generalized, and prac
 News
 ======
 
-- May. 2024: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
-- May. 2024: One paper was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML-PKDD 2024</a>.
-- May. 2024: Two papers were accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.
-- May. 2024: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank" style="text-decoration: none">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>.
-- Apr. 2024: One paper was accepted by <a href="https://ijcai24.org/" target="_blank" style="text-decoration: none">IJCAI 2024</a>.
-- Mar. 2024: One paper was accepted by <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" style="text-decoration: none">Neural Networks</a>.
-- Jan. 2024: One paper was accepted by <a href="https://www2024.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2024</a>.
-- Sep. 2023: One paper was accepted by <a href="https://nips.cc/Conferences/2023" target="_blank" style="text-decoration: none">NeurIPS 2023</a>.
-- Jul. 2023: One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications</a>.
-- Jul. 2023: One paper was accepted by <a href="https://ecai2023.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
-- Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59" target="_blank" style="text-decoration: none">IEEE Transactions on Power Systems</a>.
-- Jul. 2023: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" target="_blank" style="text-decoration: none">IEEE Transactions on Systems, Man and Cybernetics: Systems</a>.
-- May 2023: One paper was accepted by <a href="https://kdd.org/kdd2023/" target="_blank" style="text-decoration: none">KDD 2023</a>.
-- Apr. 2023: One paper was accepted by <a href="https://iclr.cc/Conferences/2023" target="_blank" style="text-decoration: none">ICLR 2023 Tiny Paper</a>.
-- Nov. 2022: One paper was accepted by <a href="https://aaai-23.aaai.org/" target="_blank" style="text-decoration: none">AAAI 2023</a>.
-- Seq. 2022: One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
+- [May. 2024] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
+- [May. 2024] One paper was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML-PKDD 2024</a>.
+- [May. 2024] Two papers were accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.
+- [May. 2024] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank" style="text-decoration: none">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>.
+- [Apr. 2024] One paper was accepted by <a href="https://ijcai24.org/" target="_blank" style="text-decoration: none">IJCAI 2024</a>.
+- [Mar. 2024] One paper was accepted by <a href="https://www.sciencedirect.com/journal/neural-networks" target="_blank" style="text-decoration: none">Neural Networks</a>.
+- [Jan. 2024] One paper was accepted by <a href="https://www2024.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2024</a>.
+- [Sep. 2023] One paper was accepted by <a href="https://nips.cc/Conferences/2023" target="_blank" style="text-decoration: none">NeurIPS 2023</a>.
+- [Jul. 2023] One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications</a>.
+- [Jul. 2023] One paper was accepted by <a href="https://ecai2023.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
+- [Jul. 2023] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59" target="_blank" style="text-decoration: none">IEEE Transactions on Power Systems</a>.
+- [Jul. 2023] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" target="_blank" style="text-decoration: none">IEEE Transactions on Systems, Man and Cybernetics: Systems</a>.
+- [May 2023] One paper was accepted by <a href="https://kdd.org/kdd2023/" target="_blank" style="text-decoration: none">KDD 2023</a>.
+- [Apr. 2023] One paper was accepted by <a href="https://iclr.cc/Conferences/2023" target="_blank" style="text-decoration: none">ICLR 2023 Tiny Paper</a>.
+- [Nov. 2022] One paper was accepted by <a href="https://aaai-23.aaai.org/" target="_blank" style="text-decoration: none">AAAI 2023</a>.
+- [Seq. 2022] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
 
 
 <br>
