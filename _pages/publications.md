@@ -61,11 +61,13 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 - **Temporal Prototype-Aware Learning for Active Voltage Control on Power Distribution Networks**  \\
   Feiyang Xu, **<u>Shunyu Liu$^✉️$</u>**, Yunpeng Qing, Yihe Zhou, Yuwen Wang, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
+  <a href="https://arxiv.org/abs/2406.17818" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Canyizl/TPA-for-AVC" target="_blank" style="text-decoration: none">\[Code\]
 
 
 - **Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks**  \\
   Yuwen Wang, **<u>Shunyu Liu$^✉️$</u>**, Tongya Zheng, Kaixuan Chen, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
+  <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Wangyuwen0627/GIP-Framework" target="_blank" style="text-decoration: none">\[Code\]
 
 
 - **Improving Adversarial Robustness via Feature Pattern Consistency Constraint** \\
