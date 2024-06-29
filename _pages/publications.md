@@ -8,6 +8,7 @@ author_profile: false
 $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
 ## Journal
+---
 
 - **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** \\
   Yu Wang, Tongya Zheng, **<u>Shunyu Liu</u>**, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
@@ -52,6 +53,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 ## Conference
+---
 
 - **Simple Graph Condensation**  \\
   Zhenbang Xiao, Yu Wang, **<u>Shunyu Liu</u>**, Huiqiong Wang, Mingli Song, Tongya Zheng.\\
@@ -151,6 +153,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 ## Preprint
+---
 
 
 - **A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective**  \\
