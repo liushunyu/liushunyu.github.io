@@ -68,7 +68,8 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 - **Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks**  \\
   Yuwen Wang, **<u>Shunyu Liu$^✉️$</u>**, Tongya Zheng, Kaixuan Chen, Mingli Song. \\
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.\\
+  <a href="https://arxiv.org/abs/2407.01979" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Wangyuwen0627/GIP-Framework" target="_blank" style="text-decoration: none">\[Code\]
 
 
 - **Improving Adversarial Robustness via Feature Pattern Consistency Constraint** \\
