@@ -61,7 +61,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/BangHonor/SimGC" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 - **Temporal Prototype-Aware Learning for Active Voltage Control on Power Distribution Networks**  \\
-  Feiyang Xu, **<u>Shunyu Liu$^✉️$</u>**, Yunpeng Qing, Yihe Zhou, Yuwen Wang, Mingli Song. \\
+  Feiyang Xu$^\dagger$, **<u>Shunyu Liu$^{\dagger ✉️}$</u>**, Yunpeng Qing, Yihe Zhou, Yuwen Wang, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.\\
   <a href="https://arxiv.org/abs/2406.17818" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Canyizl/TPA-for-AVC" target="_blank" style="text-decoration: none">\[Code\]
 
