@@ -24,6 +24,7 @@ My research interests include **multi-agent learning**, **reinforcement learning
 ---
 
 
+- [Jul. 2024] One paper was accepted by <a href="https://ecai2024.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
 - [May. 2024] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
 - [May. 2024] One paper was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML-PKDD 2024</a>.
 - [May. 2024] Two papers were accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.
@@ -57,22 +58,22 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 - **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**  \\
   **<u>Shunyu Liu</u>**, Jie Song$^✉️$, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. \\
-  <a href="https://ieeexplore.ieee.org/document/10529613" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a>
+  <a href="https://ieeexplore.ieee.org/document/10529613" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song$^✉️$.\\
   IEEE Transactions on Power Systems (TPS), 2023.\\
-  <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> 
+  <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2405.15831" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
 - **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework**  \\
   **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song$^✉️$.\\
   IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), 2023.\\
-  <a href="https://ieeexplore.ieee.org/abstract/document/10210582" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10210582" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 - **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** \\
   **<u>Shunyu Liu$^\dagger$</u>**, Yihe Zhou$^\dagger$, Jie Song$^✉️$, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
   AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.\\
-  <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a> 
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26370" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
 
