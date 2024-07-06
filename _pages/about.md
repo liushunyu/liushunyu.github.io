@@ -24,7 +24,7 @@ My research interests include **multi-agent learning**, **reinforcement learning
 ---
 
 
-- [Jul. 2024] One paper was accepted by <a href="https://ecai2024.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
+- [Jul. 2024] One paper was accepted by <a href="https://ecai2024.eu/" target="_blank" style="text-decoration: none">ECAI 2024</a>.
 - [May. 2024] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
 - [May. 2024] One paper was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML-PKDD 2024</a>.
 - [May. 2024] Two papers were accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.
