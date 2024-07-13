@@ -86,9 +86,9 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 ### Scholarship
-  - Outstanding Undergraduate Student Scholarship, Sun Yat-sen University, 2015-2018.
+  - Outstanding Undergraduate Student Scholarship, Sun Yat-sen University, 2016, 2017, 2018.
   - National Scholarship, Ministry of Education of the People's Republic of China, 2018.
-  - Outstanding Graduate Student Award, Zhejiang University, 2019-2023.
+  - Outstanding Graduate Student Award, Zhejiang University, 2020, 2021, 2023.
   - Outstanding Ph.D. Student Scholarship, Zhejiang University, 2021.
   - Chen Tianzhou Scholarship, Zhejiang University, 2023.
 
