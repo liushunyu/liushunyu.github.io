@@ -59,7 +59,8 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 - **Learning a Mini-batch Graph Transformer via Two-stage Interaction Augmentation**  \\
   Wenda Li, Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongya Zheng, Wenjie Huang, Mingli Song.\\
-  European Conference on Artificial Intelligence (ECAI), 2024.
+  European Conference on Artificial Intelligence (ECAI), 2024. \\
+  <a href="https://arxiv.org/abs/2407.09904" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/l-wd/LGMformer" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
 - **Simple Graph Condensation**  \\
