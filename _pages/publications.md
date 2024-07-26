@@ -17,7 +17,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 - **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**  \\
-  **<u>Shunyu Liu</u>**, Jie Song, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
+  **<u>Shunyu Liu</u>**, Jie Song$^✉️$, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. \\
   <a href="https://ieeexplore.ieee.org/document/10529613" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a>
 
@@ -28,18 +28,18 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/isluoshuang/MACFN" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** \\
-  **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song.\\
+  **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song$^✉️$.\\
   IEEE Transactions on Power Systems (TPS), 2023. \\
   <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2405.15831" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
 
 - **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework**  \\
-  **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song.\\
+  **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song$^✉️$.\\
   IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), 2023. \\
   <a href="https://ieeexplore.ieee.org/abstract/document/10210582" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 - **Progressive Decision-Making Framework for Power System Topology Control** \\
-  **<u>Shunyu Liu</u>**, Yanzhen Zhou, Mingli Song, Guangquan Bu, Jianbo Guo, Chun Chen.\\
+  **<u>Shunyu Liu</u>**, Yanzhen Zhou, Mingli Song$^✉️$, Guangquan Bu, Jianbo Guo, Chun Chen.\\
   Expert Systems with Applications (ESWA), 2023. \\
   <a href="https://www.sciencedirect.com/science/article/pii/S0957417423015725" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/PAC" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
@@ -122,7 +122,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 - **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition**  \\
-  **<u>Shunyu Liu$^\dagger$</u>**, Yihe Zhou$^\dagger$, Jie Song, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
+  **<u>Shunyu Liu$^\dagger$</u>**, Yihe Zhou$^\dagger$, Jie Song$^✉️$, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
   AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**. \\
   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26370" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a>
 
@@ -165,6 +165,12 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 ---
 
 
+- **Odyssey: Empowering Agents with Open-World Skills**  \\
+  **<u>Shunyu Liu$^\dagger$</u>**, Yaoru Li$^\dagger$, Kongcheng Zhang$^\dagger$, Zhenyu Cui$^\dagger$, Wenkai Fang, Yuxuan Zheng, Tongya Zheng, Mingli Song$^✉️$.\\
+  arXiv preprint arXiv:2407.15325, 2024. \\
+  <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a>
+
+
 - **A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective**  \\
   Yunpeng Qing, **<u>Shunyu Liu</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
   arXiv preprint arXiv:2403.07262, 2024.\\
@@ -190,7 +196,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 - **Curricular Subgoals for Inverse Reinforcement Learning**  \\
-  **<u>Shunyu Liu$^\dagger$</u>**, Yunpeng Qing$^\dagger$, Shuqi Xu, Hongyan Wu, Jiangtao Zhang, Jingyuan Cong, Tianhao Chen, Yunfu Liu, Mingli Song.\\
+  **<u>Shunyu Liu$^\dagger$</u>**, Yunpeng Qing$^\dagger$, Shuqi Xu, Hongyan Wu, Jiangtao Zhang, Jingyuan Cong, Tianhao Chen, Yunfu Liu, Mingli Song$^✉️$.\\
   arXiv preprint arXiv:2306.08232, 2023.\\
   <a href="https://arxiv.org/abs/2306.08232" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Plankson/CSIRL" target="_blank" style="text-decoration: none">\[Code\]</a>
 
@@ -199,7 +205,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 - **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** \\
-  Yihe Zhou$^\dagger$, **<u>Shunyu Liu$^\dagger$</u>**, Yunpeng Qing, Kaixuan Chen, Tongya Zheng, Yanhao Huang, Jie Song, Mingli Song. \\
+  Yihe Zhou$^\dagger$, **<u>Shunyu Liu$^\dagger$</u>**, Yunpeng Qing, Kaixuan Chen, Tongya Zheng, Yanhao Huang, Jie Song, Mingli Song$^✉️$. \\
   arXiv preprint arXiv:2305.17352, 2023.\\
   <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
@@ -209,7 +215,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 - **A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges** \\
-  Yunpeng Qing, **<u>Shunyu Liu</u>**, Jie Song, Huiqiong Wang, Mingli Song. \\
+  Yunpeng Qing, **<u>Shunyu Liu</u>**, Jie Song, Huiqiong Wang$^✉️$, Mingli Song. \\
   arXiv preprint arXiv:2211.06665, 2022. \\
   <a href="https://arxiv.org/abs/2211.06665" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Plankson/awesome-explainable-reinforcement-learning" target="_blank" style="text-decoration: none">\[Code\]</a> 
 

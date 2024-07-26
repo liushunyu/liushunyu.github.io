@@ -55,6 +55,12 @@ My research interests include **multi-agent learning**, **reinforcement learning
 
 $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
+
+- **Odyssey: Empowering Agents with Open-World Skills**  \\
+  **<u>Shunyu Liu$^\dagger$</u>**, Yaoru Li$^\dagger$, Kongcheng Zhang$^\dagger$, Zhenyu Cui$^\dagger$, Wenkai Fang, Yuxuan Zheng, Tongya Zheng, Mingli Song$^✉️$.\\
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. \\
+  <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a>
+
 - **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**  \\
   **<u>Shunyu Liu</u>**, Jie Song$^✉️$, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. \\
