@@ -58,7 +58,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 - **Odyssey: Empowering Agents with Open-World Skills**  \\
   **<u>Shunyu Liu$^\dagger$</u>**, Yaoru Li$^\dagger$, Kongcheng Zhang$^\dagger$, Zhenyu Cui$^\dagger$, Wenkai Fang, Yuxuan Zheng, Tongya Zheng, Mingli Song$^✉️$.\\
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. \\
+  arXiv preprint arXiv:2407.15325, 2024. \\
   <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 - **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**  \\
