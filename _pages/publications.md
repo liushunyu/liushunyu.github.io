@@ -215,7 +215,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 - **A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges** \\
-  Yunpeng Qing, **<u>Shunyu Liu</u>**, Jie Song, Huiqiong Wang$^✉️$, Mingli Song. \\
+  Yunpeng Qing, **<u>Shunyu Liu</u>**, Jie Song, Huiqiong Wang, Mingli Song. \\
   arXiv preprint arXiv:2211.06665, 2022. \\
   <a href="https://arxiv.org/abs/2211.06665" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Plankson/awesome-explainable-reinforcement-learning" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
