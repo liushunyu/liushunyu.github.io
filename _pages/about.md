@@ -57,8 +57,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 - **Odyssey: Empowering Agents with Open-World Skills**  \\
-  **<u>Shunyu Liu$^\dagger$</u>**, Yaoru Li$^\dagger$, Kongcheng Zhang$^\dagger$, Zhenyu Cui$^\dagger$, Wenkai Fang, Yuxuan Zheng, Tongya Zheng,\\
-  Mingli Song$^✉️$.\\
+  **<u>Shunyu Liu$^\dagger$</u>**, Yaoru Li$^\dagger$, Kongcheng Zhang$^\dagger$, Zhenyu Cui$^\dagger$, Wenkai Fang, Yuxuan Zheng, Tongya Zheng, Mingli Song$^✉️$.\\
   arXiv preprint arXiv:2407.15325, 2024. \\
   <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a>
 
@@ -69,7 +68,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song$^✉️$.\\
-  IEEE Transactions on Power Systems (TPS), 2023.\\
+  IEEE Transactions on Power Systems (TPS), 2024.\\
   <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2405.15831" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
 - **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework**  \\
