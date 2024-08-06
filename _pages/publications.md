@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: false
 ---
 
+For the most up-to-date list, please visit my <a href="https://scholar.google.com/citations?user=4U-X6d4AAAAJ&hl=en" target="_blank" style="text-decoration: none">Google Scholar</a>.
+
 $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
 ## Journal
