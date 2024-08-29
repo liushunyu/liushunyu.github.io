@@ -19,7 +19,8 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 - **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**  \\
   **<u>Shunyu Liu</u>**, Jie Song$^✉️$, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. \\
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)<span style="color:red">$^*$</span>, 2024. \\
+  <span style="color:red">$^*$ Top-tier Journal in Artificial Intelligence.</span> \\
   <a href="https://ieeexplore.ieee.org/document/10529613" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
@@ -28,9 +29,11 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   Neural Networks (NN), 2024. \\
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/isluoshuang/MACFN" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
+
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song$^✉️$.\\
-  IEEE Transactions on Power Systems (TPS), 2024. \\
+  IEEE Transactions on Power Systems (TPS)<span style="color:red">$^*$</span>, 2024.\\
+  <span style="color:red">$^*$ Top-tier Journal in Power Systems.</span> \\
   <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2405.15831" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
 
