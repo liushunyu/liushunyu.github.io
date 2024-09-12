@@ -27,7 +27,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 - **Multi-Agent Continuous Control with Generative Flow Networks**  \\
   Shuang Luo, Yinchuan Li, **<u>Shunyu Liu</u>**, Xu Zhang, Yunfeng Shao, Chao Wu.\\
   Neural Networks (NN), 2024. \\
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/isluoshuang/MACFN" target="_blank" style="text-decoration: none">\[Code\]</a> 
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2408.06920" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/isluoshuang/MACFN" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** \\
@@ -51,7 +51,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 - **Distribution Knowledge Embedding for Graph Pooling** \\
   Kaixuan Chen, Jie Song, **<u>Shunyu Liu</u>**, Na Yu, Zunlei Feng, Gengshi Han, Mingli Song.\\
-  IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. \\
+  IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023. \\
   <a href="https://ieeexplore.ieee.org/abstract/document/9896198/" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2109.14333" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/chenchkx/DKEPool" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
 
@@ -71,29 +71,30 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 - **Simple Graph Condensation**  \\
   Zhenbang Xiao, Yu Wang, **<u>Shunyu Liu</u>**, Huiqiong Wang, Mingli Song, Tongya Zheng.\\
   European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2024. \\
-  <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/BangHonor/SimGC" target="_blank" style="text-decoration: none">\[Code\]</a>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-70344-7_4" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/BangHonor/SimGC" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 - **Temporal Prototype-Aware Learning for Active Voltage Control on Power Distribution Networks**  \\
   Feiyang Xu$^\dagger$, **<u>Shunyu Liu$^{\dagger ✉️}$</u>**, Yunpeng Qing, Yihe Zhou, Yuwen Wang, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.\\
-  <a href="https://arxiv.org/abs/2406.17818" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Canyizl/TPA-for-AVC" target="_blank" style="text-decoration: none">\[Code\]
+  <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671790" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2406.17818" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Canyizl/TPA-for-AVC" target="_blank" style="text-decoration: none">\[Code\]
 
 
 - **Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks**  \\
   Yuwen Wang, **<u>Shunyu Liu$^✉️$</u>**, Tongya Zheng, Kaixuan Chen, Mingli Song. \\
   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.\\
-  <a href="https://arxiv.org/abs/2407.01979" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Wangyuwen0627/GIP-Framework" target="_blank" style="text-decoration: none">\[Code\]
+  <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671838" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2407.01979" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Wangyuwen0627/GIP-Framework" target="_blank" style="text-decoration: none">\[Code\]
 
 
 - **Improving Adversarial Robustness via Feature Pattern Consistency Constraint** \\
   Jiacong Hu, Jingwen Ye, Zunlei Feng, Jiazhen Yang, **<u>Shunyu Liu</u>**, Xiaotian Yu, Lingxiang Jia, Mingli Song. \\
   International Joint Conference on Artificial  Intelligence (IJCAI), 2024.\\
-   <a href="https://arxiv.org/abs/2406.08829" target="_blank" style="text-decoration: none">\[arXiv\]</a>
+  <a href="https://www.ijcai.org/proceedings/2024/94" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2406.08829" target="_blank" style="text-decoration: none">\[arXiv\]</a>
 
 
 - **Multi-Channel Graph Fusion Representation for Tabular Data Imputation**  \\
   Na Yu, Ke Xu, Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongya Zheng, Mingli Song. \\
-  International Joint Conference on Neural Networks (IJCNN), 2024.
+  International Joint Conference on Neural Networks (IJCNN), 2024.\\
+  <a href="https://ieeexplore.ieee.org/document/10651425" target="_blank" style="text-decoration: none">\[Paper\]</a> 
 
 
 - **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation**  \\
