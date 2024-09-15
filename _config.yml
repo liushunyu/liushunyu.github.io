@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shunyu Liu (刘顺宇)"
   avatar           : "liushunyu.jpg"
-  bio              : "Nanyang Technological University"
+  bio              : # "Nanyang Technological University"
   location         : "Singapore"
   employer         :
   pubmed           : 
