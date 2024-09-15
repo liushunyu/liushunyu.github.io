@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shunyu Liu"
-description              : &description "Nanyang Technological University"
+description              : &description "Postdoc @ Nanyang Technological University"
 url                      : https://liushunyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liushunyu/liushunyu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shunyu Liu (刘顺宇)"
   avatar           : "liushunyu.jpg"
-  bio              : # "Nanyang Technological University"
+  bio              : "Postdoc @ Nanyang Technological University"
   location         : "Singapore"
   employer         :
   pubmed           : 
