@@ -61,7 +61,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 ---
 
 - **A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective**  \\
-  Yunpeng Qing, **<u>Shunyu Liu$^{\dagger ✉️}$</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
+  Yunpeng Qing, **<u>Shunyu Liu$^✉️$</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
   Advances in Neural Information Processing Systems (NeurIPS), 2024.\\
   <a href="https://arxiv.org/abs/2403.07262" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
 
