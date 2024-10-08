@@ -60,6 +60,11 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 ## Conference
 ---
 
+- **A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective**  \\
+  Yunpeng Qing, **<u>Shunyu Liu$^{\dagger ✉️}$</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
+  Advances in Neural Information Processing Systems (NeurIPS), 2024.\\
+  <a href="https://arxiv.org/abs/2403.07262" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
+
 
 
 - **Learning a Mini-batch Graph Transformer via Two-stage Interaction Augmentation**  \\
@@ -177,10 +182,6 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
-- **A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective**  \\
-  Yunpeng Qing, **<u>Shunyu Liu</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
-  arXiv preprint arXiv:2403.07262, 2024.\\
-  <a href="https://arxiv.org/abs/2403.07262" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
 
 
 - **Disentangled Condensation for Large-scale Graphs**  \\
