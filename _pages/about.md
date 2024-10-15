@@ -60,7 +60,7 @@ My research interests include **multi-agent learning**, **reinforcement learning
 $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
 
-- **Odyssey: Empowering Agents with Open-World Skills**  \\
+- **Odyssey: Empowering Minecraft Agents with Open-World Skills**  \\
   **<u>Shunyu Liu$^\dagger$</u>**, Yaoru Li$^\dagger$, Kongcheng Zhang$^\dagger$, Zhenyu Cui$^\dagger$, Wenkai Fang$^\dagger$, Yuxuan Zheng, Tongya Zheng, Mingli Song$^✉️$.\\
   arXiv preprint arXiv:2407.15325, 2024. \\
   <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a>
