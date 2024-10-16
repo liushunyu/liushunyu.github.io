@@ -65,6 +65,21 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   arXiv preprint arXiv:2407.15325, 2024. \\
   <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a>
 
+- **A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective**  \\
+  Yunpeng Qing, **<u>Shunyu Liu$^✉️$</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
+  Advances in Neural Information Processing Systems (NeurIPS), 2024.\\
+  <a href="https://arxiv.org/abs/2403.07262" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
+
+- **Temporal Prototype-Aware Learning for Active Voltage Control on Power Distribution Networks**  \\
+  Feiyang Xu$^\dagger$, **<u>Shunyu Liu$^{\dagger ✉️}$</u>**, Yunpeng Qing, Yihe Zhou, Yuwen Wang, Mingli Song. \\
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.\\
+  <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671790" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2406.17818" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Canyizl/TPA-for-AVC" target="_blank" style="text-decoration: none">\[Code\]
+
+- **Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks**  \\
+  Yuwen Wang, **<u>Shunyu Liu$^✉️$</u>**, Tongya Zheng, Kaixuan Chen, Mingli Song. \\
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.\\
+  <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671838" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2407.01979" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Wangyuwen0627/GIP-Framework" target="_blank" style="text-decoration: none">\[Code\]
+
 - **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**  \\
   **<u>Shunyu Liu</u>**, Jie Song$^✉️$, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)<span style="color:red">$^*$</span>, 2024. \\
@@ -126,7 +141,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   - Autonomous Agents and Multi-Agent Systems (AAMAS)
 
 ### Conference Reviewer
-  - NeurIPS 2024, KDD 2024, ICLR 2023, ECAI 2023, ICONIP 2023
+  - ICLR 2025, KDD 2025, NeurIPS 2024, KDD 2024, ICLR 2023, ECAI 2023
 
 
 
