@@ -27,7 +27,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 - **Multi-Agent Continuous Control with Generative Flow Networks**  \\
   Shuang Luo, Yinchuan Li, **<u>Shunyu Liu</u>**, Xu Zhang, Yunfeng Shao, Chao Wu.\\
   Neural Networks (NN), 2024. \\
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2408.06920" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/isluoshuang/MACFN" target="_blank" style="text-decoration: none">\[Code\]</a> 
+  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608024001679" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2408.06920" target="_blank" style="text-decoration: none">\[arXiv\]</a>
 
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** \\
@@ -63,7 +63,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 - **A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective**  \\
   Yunpeng Qing, **<u>Shunyu Liu$^✉️$</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
   Advances in Neural Information Processing Systems (NeurIPS), 2024.\\
-  <a href="https://arxiv.org/abs/2403.07262" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
+  <a href="https://arxiv.org/abs/2403.07262" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Plankson/A2PO" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
 
