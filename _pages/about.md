@@ -11,9 +11,6 @@ redirect_from:
 
 ---
 
-(Last Updated: Sep 26, 2024)
-
-
 
 I am currently a research scientist at <a href="https://www.ntu.edu.sg/" target="_blank" style="text-decoration: none">Nanyang Technological University</a>, working with Prof. <a href="https://scholar.google.com/citations?user=RwlJNLcAAAAJ" target="_blank" style="text-decoration: none">Dacheng Tao</a>. Before that, I received the Ph.D. degree from the College of Computer Science and Technology at <a href="https://www.zju.edu.cn/english/" target="_blank" style="text-decoration: none">Zhejiang University</a> in 2024, advised by Prof. <a href="https://person.zju.edu.cn/en/msong" target="_blank" style="text-decoration: none">Mingli Song</a> and Prof. <a href="https://person.zju.edu.cn/en/0082004" target="_blank" style="text-decoration: none">Chun Chen</a>, and received the B.Eng. degree in Software Engineering from <a href="https://www.sysu.edu.cn/sysuen/" target="_blank" style="text-decoration: none">Sun Yat-sen University</a> in 2019. 
 
@@ -27,6 +24,9 @@ My research interests include **multi-agent learning**, **reinforcement learning
 # News
 ---
 
+
+- [Dec 2022] Four papers were accepted by <a href="https://aaai.org/conference/aaai/aaai-25/" target="_blank" style="text-decoration: none">AAAI 2025</a>.
+- [Nov 2024] One paper was accepted by <a href="https://kdd2025.kdd.org/" target="_blank" style="text-decoration: none">KDD 2025 ADS Track</a>.
 - [Sep 2024] One paper was accepted by <a href="https://nips.cc/Conferences/2024" target="_blank" style="text-decoration: none">NeurIPS 2024</a>.
 - [Jul 2024] One paper was accepted by <a href="https://ecai2024.eu/" target="_blank" style="text-decoration: none">ECAI 2024</a>.
 - [May 2024] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
@@ -60,10 +60,23 @@ My research interests include **multi-agent learning**, **reinforcement learning
 $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
 
-- **Odyssey: Empowering Minecraft Agents with Open-World Skills**  \\
-  **<u>Shunyu Liu$^\dagger$</u>**, Yaoru Li$^\dagger$, Kongcheng Zhang$^\dagger$, Zhenyu Cui$^\dagger$, Wenkai Fang$^\dagger$, Yuxuan Zheng, Tongya Zheng, Mingli Song$^✉️$.\\
-  arXiv preprint arXiv:2407.15325, 2024. \\
-  <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a>
+- **Cooperative Policy Agreement: Learning Diverse Policy for Offline MARL**  \\
+  Yihe Zhou, Yuxuan Zheng, Yue Hu, Kaixuan Chen, Tongya Zheng, Jie Song, Mingli Song, **<u>Shunyu Liu$^✉️$</u>**.\\
+  AAAI Conference on Artificial Intelligence (AAAI), 2025.\\
+  <a href="" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
+
+
+- **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning**  \\
+  Yaoquan Wei, **<u>Shunyu Liu$^✉️$</u>**, Jie Song, Tongya Zheng, Kaixuan Chen, Yong Wang, Mingli Song.\\
+  AAAI Conference on Artificial Intelligence (AAAI), 2025.\\
+  <a href="https://arxiv.org/abs/2311.16807" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
+
+
+- **Powerformer: A Section-adaptive Transformer for Power Flow Adjustment** \\
+  Kaixuan Chen, Wei Luo, **<u>Shunyu Liu$^✉️$</u>**, Yaoquan Wei, Yihe Zhou, Yunpeng Qing, Quan Zhang, Jie Song, Mingli Song.\\
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) ADS Track, 2025.\\
+  <a href="https://arxiv.org/abs/2401.02771" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/chenchkx/Powerformer" target="_blank" style="text-decoration: none">\[Code\]</a> 
+
 
 - **A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective**  \\
   Yunpeng Qing, **<u>Shunyu Liu$^✉️$</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
@@ -112,12 +125,13 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 
-### Scholarship
+### Awards & Scholarship
   - Outstanding Undergraduate Student Scholarship, Sun Yat-sen University, 2016, 2017, 2018.
   - National Scholarship, Ministry of Education of the People's Republic of China, 2018.
   - Outstanding Graduate Student Award, Zhejiang University, 2020, 2021, 2023.
   - Outstanding Ph.D. Student Scholarship, Zhejiang University, 2021.
   - Chen Tianzhou Scholarship, Zhejiang University, 2023.
+  - Outstanding Graduate, Zhejiang University, 2024.
 
 
 ### Competition
@@ -139,6 +153,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - Information Sciences (INS)
   - Autonomous Agents and Multi-Agent Systems (AAMAS)
+  - International Journal of Electrical Power and Energy Systems (IJEPES)
 
 ### Conference Reviewer
   - ICLR 2025, KDD 2025, NeurIPS 2024, KDD 2024, ICLR 2023, ECAI 2023

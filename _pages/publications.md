@@ -60,6 +60,37 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 ## Conference
 ---
 
+
+- **Holistic Semantic Representation for Navigational Trajectory Generation**  \\
+  Ji Cao, Tongya Zheng, Qinghong Guo, Yu Wang, Junshu Dai, **<u>Shunyu Liu</u>**, Jie Yang, Jie Song, Mingli Song.\\
+  AAAI Conference on Artificial Intelligence (AAAI), 2025.\\
+  <a href="" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
+
+
+- **Disentangled Table-Graph Representation for Interpretable Transmission Line Fault Location**  \\
+  Na Yu, Yutong Deng, **<u>Shunyu Liu</u>**, Kaixuan Chen, Tongya Zheng, Mingli Song.\\
+  AAAI Conference on Artificial Intelligence (AAAI), 2025.\\
+  <a href="" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
+
+
+- **Cooperative Policy Agreement: Learning Diverse Policy for Offline MARL**  \\
+  Yihe Zhou, Yuxuan Zheng, Yue Hu, Kaixuan Chen, Tongya Zheng, Jie Song, Mingli Song, **<u>Shunyu Liu$^✉️$</u>**.\\
+  AAAI Conference on Artificial Intelligence (AAAI), 2025.\\
+  <a href="" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
+
+
+- **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning**  \\
+  Yaoquan Wei, **<u>Shunyu Liu$^✉️$</u>**, Jie Song, Tongya Zheng, Kaixuan Chen, Yong Wang, Mingli Song.\\
+  AAAI Conference on Artificial Intelligence (AAAI), 2025.\\
+  <a href="https://arxiv.org/abs/2311.16807" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
+
+
+- **Powerformer: A Section-adaptive Transformer for Power Flow Adjustment** \\
+  Kaixuan Chen, Wei Luo, **<u>Shunyu Liu$^✉️$</u>**, Yaoquan Wei, Yihe Zhou, Yunpeng Qing, Quan Zhang, Jie Song, Mingli Song.\\
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) ADS Track, 2025.\\
+  <a href="https://arxiv.org/abs/2401.02771" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/chenchkx/Powerformer" target="_blank" style="text-decoration: none">\[Code\]</a> 
+
+
 - **A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective**  \\
   Yunpeng Qing, **<u>Shunyu Liu$^✉️$</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
   Advances in Neural Information Processing Systems (NeurIPS), 2024.\\
@@ -157,7 +188,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 - **Imbalanced Sample Generation and Evaluation for Power System Transient Stability Using CTGAN** \\
   Gengshi Han, **<u>Shunyu Liu</u>**, Kaixuan Chen, Na Yu, Zunlei Feng, Mingli Song.\\
-  International Conference on Intelligent Computing and Optimization (ICO), 2021, **Oral**.\\
+  International Conference on Intelligent Computing and Optimization (ICO), 2021.\\
   <a href="https://link.springer.com/chapter/10.1007/978-3-030-93247-3_55" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2112.08836" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
 
 
@@ -189,17 +220,6 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   arXiv preprint arXiv:2401.12231, 2024.\\
   <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/BangHonor/DisCo" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
-
-- **Powerformer: A Section-adaptive Transformer for Power Flow Adjustment** \\
-  Kaixuan Chen, Wei Luo, **<u>Shunyu Liu</u>**, Yaoquan Wei, Yihe Zhou, Yunpeng Qing, Quan Zhang, Jie Song, Mingli Song.\\
-  arXiv preprint arXiv:2401.02771, 2024.\\
-  <a href="https://arxiv.org/abs/2401.02771" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/chenchkx/Powerformer" target="_blank" style="text-decoration: none">\[Code\]</a> 
-
-
-- **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning**  \\
-  Yaoquan Wei, **<u>Shunyu Liu$^✉️$</u>**, Jie Song, Tongya Zheng, Kaixuan Chen, Yong Wang, Mingli Song.\\
-  arXiv preprint arXiv:2311.16807, 2023.\\
-  <a href="https://arxiv.org/abs/2311.16807" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
 
 
 - **Curricular Subgoals for Inverse Reinforcement Learning**  \\
