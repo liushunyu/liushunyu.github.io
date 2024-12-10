@@ -25,7 +25,7 @@ My research interests include **multi-agent learning**, **reinforcement learning
 ---
 
 
-- [Dec 2022] Four papers were accepted by <a href="https://aaai.org/conference/aaai/aaai-25/" target="_blank" style="text-decoration: none">AAAI 2025</a>.
+- [Dec 2024] Four papers were accepted by <a href="https://aaai.org/conference/aaai/aaai-25/" target="_blank" style="text-decoration: none">AAAI 2025</a>.
 - [Nov 2024] One paper was accepted by <a href="https://kdd2025.kdd.org/" target="_blank" style="text-decoration: none">KDD 2025 ADS Track</a>.
 - [Sep 2024] One paper was accepted by <a href="https://nips.cc/Conferences/2024" target="_blank" style="text-decoration: none">NeurIPS 2024</a>.
 - [Jul 2024] One paper was accepted by <a href="https://ecai2024.eu/" target="_blank" style="text-decoration: none">ECAI 2024</a>.
