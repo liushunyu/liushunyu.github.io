@@ -60,59 +60,37 @@ My research interests include **multi-agent learning**, **reinforcement learning
 $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
 
-- **Cooperative Policy Agreement: Learning Diverse Policy for Offline MARL**  \\
-  Yihe Zhou, Yuxuan Zheng, Yue Hu, Kaixuan Chen, Tongya Zheng, Jie Song, Mingli Song, **<u>Shunyu Liu$^✉️$</u>**.\\
-  AAAI Conference on Artificial Intelligence (AAAI), 2025.\\
-  <a href="" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
-
-
-- **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning**  \\
-  Yaoquan Wei, **<u>Shunyu Liu$^✉️$</u>**, Jie Song, Tongya Zheng, Kaixuan Chen, Yong Wang, Mingli Song.\\
-  AAAI Conference on Artificial Intelligence (AAAI), 2025.\\
-  <a href="https://arxiv.org/abs/2311.16807" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
-
-
-- **Powerformer: A Section-adaptive Transformer for Power Flow Adjustment** \\
-  Kaixuan Chen, Wei Luo, **<u>Shunyu Liu$^✉️$</u>**, Yaoquan Wei, Yihe Zhou, Yunpeng Qing, Quan Zhang, Jie Song, Mingli Song.\\
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) ADS Track, 2025.\\
-  <a href="https://arxiv.org/abs/2401.02771" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/chenchkx/Powerformer" target="_blank" style="text-decoration: none">\[Code\]</a> 
-
 
 - **A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective**  \\
   Yunpeng Qing, **<u>Shunyu Liu$^✉️$</u>**, Jingyuan Cong, Kaixuan Chen, Yihe Zhou, Mingli Song.\\
-  Advances in Neural Information Processing Systems (NeurIPS), 2024.\\
+  Advances in Neural Information Processing Systems (**NeurIPS**), 2024.\\
   <a href="https://arxiv.org/abs/2403.07262" target="_blank" style="text-decoration: none">\[arXiv\]</a>  <a href="https://github.com/Plankson/A2PO" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 - **Temporal Prototype-Aware Learning for Active Voltage Control on Power Distribution Networks**  \\
   Feiyang Xu$^\dagger$, **<u>Shunyu Liu$^{\dagger ✉️}$</u>**, Yunpeng Qing, Yihe Zhou, Yuwen Wang, Mingli Song. \\
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.\\
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024.\\
   <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671790" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2406.17818" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Canyizl/TPA-for-AVC" target="_blank" style="text-decoration: none">\[Code\]
 
 - **Unveiling Global Interactive Patterns across Graphs: Towards Interpretable Graph Neural Networks**  \\
   Yuwen Wang, **<u>Shunyu Liu$^✉️$</u>**, Tongya Zheng, Kaixuan Chen, Mingli Song. \\
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2024.\\
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024.\\
   <a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671838" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2407.01979" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Wangyuwen0627/GIP-Framework" target="_blank" style="text-decoration: none">\[Code\]
 
 - **Interaction Pattern Disentangling for Multi-Agent Reinforcement Learning**  \\
   **<u>Shunyu Liu</u>**, Jie Song$^✉️$, Yihe Zhou, Na Yu, Kaixuan Chen, Zunlei Feng, Mingli Song.\\
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)<span style="color:red">$^*$</span>, 2024. \\
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)<span style="color:red">$^*$</span>, 2024. \\
   <span style="color:red">$^*$ Top-tier Journal in Artificial Intelligence.</span> \\
   <a href="https://ieeexplore.ieee.org/document/10529613" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2207.03902" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/OPT" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 - **Transmission Interface Power Flow Adjustment: A Deep Reinforcement Learning Approach based on Multi-task Attribution Map** \\
   **<u>Shunyu Liu$^\dagger$</u>**, Wei Luo$^\dagger$, Yanzhen Zhou, Kaixuan Chen, Quan Zhang, Huating Xu, Qinglai Guo, Mingli Song$^✉️$.\\
-  IEEE Transactions on Power Systems (TPS)<span style="color:red">$^*$</span>, 2024.\\
+  IEEE Transactions on Power Systems (**TPS**)<span style="color:red">$^*$</span>, 2024.\\
   <span style="color:red">$^*$ Top-tier Journal in Power Systems.</span> \\
   <a href="https://ieeexplore.ieee.org/document/10192091" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2405.15831" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Cra2yDavid/MAM" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
-- **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework**  \\
-  **<u>Shunyu Liu</u>**, Kaixuan Chen, Yu, Na, Jie Song, Zunlei Feng, Mingli Song$^✉️$.\\
-  IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMC), 2023.\\
-  <a href="https://ieeexplore.ieee.org/abstract/document/10210582" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2207.01955" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/Ask-AC" target="_blank" style="text-decoration: none">\[Code\]</a>
-
 - **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition** \\
   **<u>Shunyu Liu$^\dagger$</u>**, Yihe Zhou$^\dagger$, Jie Song$^✉️$, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
-  AAAI Conference on Artificial Intelligence (AAAI), 2023, **Oral**.\\
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2023, **Oral**.\\
   <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26370" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
