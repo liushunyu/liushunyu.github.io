@@ -64,19 +64,16 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 - **Holistic Semantic Representation for Navigational Trajectory Generation**  \\
   Ji Cao, Tongya Zheng, Qinghong Guo, Yu Wang, Junshu Dai, **<u>Shunyu Liu</u>**, Jie Yang, Jie Song, Mingli Song.\\
   AAAI Conference on Artificial Intelligence (**AAAI**), 2025.\\
-  <a href="" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
 
 
 - **Disentangled Table-Graph Representation for Interpretable Transmission Line Fault Location**  \\
   Na Yu, Yutong Deng, **<u>Shunyu Liu</u>**, Kaixuan Chen, Tongya Zheng, Mingli Song.\\
   AAAI Conference on Artificial Intelligence (**AAAI**), 2025.\\
-  <a href="" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
 
 
 - **Cooperative Policy Agreement: Learning Diverse Policy for Offline MARL**  \\
   Yihe Zhou, Yuxuan Zheng, Yue Hu, Kaixuan Chen, Tongya Zheng, Jie Song, Mingli Song, **<u>Shunyu Liu$^✉️$</u>**.\\
   AAAI Conference on Artificial Intelligence (**AAAI**), 2025.\\
-  <a href="" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
 
 
 - **Agent-Aware Training for Agent-Agnostic Action Advising in Deep Reinforcement Learning**  \\
@@ -100,7 +97,6 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 - **Unified Mask Graph Modeling for Incomplete Tabular Learning**  \\
   Na Yu, Tongya Zheng, Kaixuan Chen, **<u>Shunyu Liu</u>**, Mingli Song.\\
   International Conference on Neural Information Processing (**ICONIP**), 2024. \\
-  <a href="" target="_blank" style="text-decoration: none">\[Paper\]</a>
 
 
 - **Learning a Mini-batch Graph Transformer via Two-stage Interaction Augmentation**  \\
