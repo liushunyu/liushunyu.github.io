@@ -40,7 +40,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 - **Progressive Decision-Making Framework for Power System Topology Control** \\
   **<u>Shunyu Liu</u>**, Yanzhen Zhou, Mingli Song$^✉️$, Guangquan Bu, Jianbo Guo, Chun Chen.\\
   Expert Systems with Applications (**ESWA**), 2024. \\
-  <a href="https://www.sciencedirect.com/science/article/pii/S0957417423015725" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://github.com/liushunyu/PAC" target="_blank" style="text-decoration: none">\[Code\]</a> 
+  <a href="https://www.sciencedirect.com/science/article/pii/S0957417423015725" target="_blank" style="text-decoration: none">\[Paper\]</a>
 
 
 - **Ask-AC: An Initiative Advisor-in-the-Loop Actor-Critic Framework**  \\

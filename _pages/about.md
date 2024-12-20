@@ -130,6 +130,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 ### Journal Reviewer
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - Information Sciences (INS)
+  - Machine Learning (ML)
   - Autonomous Agents and Multi-Agent Systems (AAMAS)
   - International Journal of Electrical Power and Energy Systems (IJEPES)
 
