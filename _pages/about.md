@@ -25,12 +25,17 @@ My research interests include **multi-agent learning**, **reinforcement learning
 ---
 
 
+- [Jan 2025] One paper was accepted by <a href="https://iclr.cc/Conferences/2025" target="_blank" style="text-decoration: none">ICLR 2025</a>.
+- [Jan 2025] One paper was accepted by <a href="https://www2025.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2025</a>.
+- [Jan 2025] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" target="_blank" style="text-decoration: none">IEEE Transactions on Intelligent Transportation Systems</a>.
+- [Dec 2024] One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications</a>.
+- [Dec 2024] One paper was accepted by <a href="https://aamas2025.org/" target="_blank" style="text-decoration: none">AAMAS 2025 Extended Abstract</a>.
 - [Dec 2024] Four papers were accepted by <a href="https://aaai.org/conference/aaai/aaai-25/" target="_blank" style="text-decoration: none">AAAI 2025</a>.
 - [Nov 2024] One paper was accepted by <a href="https://kdd2025.kdd.org/" target="_blank" style="text-decoration: none">KDD 2025 ADS Track</a>.
 - [Sep 2024] One paper was accepted by <a href="https://nips.cc/Conferences/2024" target="_blank" style="text-decoration: none">NeurIPS 2024</a>.
 - [Jul 2024] One paper was accepted by <a href="https://ecai2024.eu/" target="_blank" style="text-decoration: none">ECAI 2024</a>.
 - [May 2024] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
-- [May 2024] One paper was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML-PKDD 2024</a>.
+- [May 2024] One paper was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML PKDD 2024</a>.
 - [May 2024] Two papers were accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.
 - [May 2024] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank" style="text-decoration: none">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>.
 - [Apr 2024] One paper was accepted by <a href="https://ijcai24.org/" target="_blank" style="text-decoration: none">IJCAI 2024</a>.
@@ -59,6 +64,15 @@ My research interests include **multi-agent learning**, **reinforcement learning
 
 $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
+
+- **From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**  \\
+  Jie Yang, Yuwen Wang, Kaixuan Chen, Tongya Zheng, Yihe Zhou, Zhenbang Xiao, Ji Cao, Mingli Song, **<u>Shunyu Liu$^✉️$</u>**.\\
+  International Conference on Learning Representations (**ICLR**), 2025.\\
+  <a href="https://openreview.net/forum?id=KEUPk0wXXe" target="_blank" style="text-decoration: none">\[Paper\]</a> 
+
+- **Cooperative Policy Agreement: Learning Diverse Policy for Offline MARL**  \\
+  Yihe Zhou, Yuxuan Zheng, Yue Hu, Kaixuan Chen, Tongya Zheng, Jie Song, Mingli Song, **<u>Shunyu Liu$^✉️$</u>**.\\
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 
 - **A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective**  \\

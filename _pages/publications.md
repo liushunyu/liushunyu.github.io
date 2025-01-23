@@ -11,6 +11,19 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 ## Journal
 ---
 
+- **Curricular Subgoals for Inverse Reinforcement Learning**  \\
+  **<u>Shunyu Liu$^\dagger$</u>**, Yunpeng Qing$^\dagger$, Shuqi Xu, Hongyan Wu, Jiangtao Zhang, Jingyuan Cong, Tianhao Chen, Yunfu Liu, Mingli Song$^✉️$.\\
+  IEEE Transactions on Intelligent Transportation Systems (**TITS**), 2025.\\
+  <a href="https://arxiv.org/abs/2306.08232" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Plankson/CSIRL" target="_blank" style="text-decoration: none">\[Code\]</a>
+
+
+
+- **Utilizing RBC system for taxation policy evaluation: An adaptive interaction framework based on deep reinforcement learning** \\
+  Shuang Luo, **<u>Shunyu Liu</u>**, Tianrun Cai, Chao Wu.\\
+  Expert Systems with Applications (**ESWA**), 2025. \\
+  <a href="https://www.sciencedirect.com/science/article/pii/S0957417424032329" target="_blank" style="text-decoration: none">\[Paper\]</a>
+
+
 - **Spatiotemporal-Augmented Graph Neural Networks for Human Mobility Simulation** \\
   Yu Wang, Tongya Zheng, **<u>Shunyu Liu</u>**, Kaixuan Chen, Zunlei Feng, Yunzhi Hao, Mingli Song.\\
   IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024. \\
@@ -61,9 +74,30 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 ---
 
 
+- **From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**  \\
+  Jie Yang, Yuwen Wang, Kaixuan Chen, Tongya Zheng, Yihe Zhou, Zhenbang Xiao, Ji Cao, Mingli Song, **<u>Shunyu Liu$^✉️$</u>**.\\
+  International Conference on Learning Representations (**ICLR**), 2025.\\
+  <a href="https://openreview.net/forum?id=KEUPk0wXXe" target="_blank" style="text-decoration: none">\[Paper\]</a> 
+
+
+- **Disentangled Condensation for Large-scale Graphs**  \\
+  Zhenbang Xiao, Yu Wang, **<u>Shunyu Liu</u>**, Bingde Hu, Huiqiong Wang, Mingli Song, Tongya Zheng.\\
+  International World Wide Web Conference (**WWW**), 2025.\\
+  <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/BangHonor/DisCo" target="_blank" style="text-decoration: none">\[Code\]</a> 
+
+
+- **CADP: Towards Better Centralized Learning for Decentralized Execution in MARL** \\
+  Yihe Zhou, **<u>Shunyu Liu$^✉️$</u>**, Yunpeng Qing, Tongya Zheng, Kaixuan Chen, Jie Song, Mingli Song. \\
+  International Joint Conference on Autonomous Agents and Multiagent Systems (**AAMAS**) Extended Abstract, 2025.\\
+  <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> 
+
+
+
+
 - **Holistic Semantic Representation for Navigational Trajectory Generation**  \\
   Ji Cao, Tongya Zheng, Qinghong Guo, Yu Wang, Junshu Dai, **<u>Shunyu Liu</u>**, Jie Yang, Jie Song, Mingli Song.\\
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2025.\\
+  <a href="https://arxiv.org/abs/2501.02737" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/caoji2001/HOSER" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
 - **Disentangled Table-Graph Representation for Interpretable Transmission Line Fault Location**  \\
@@ -94,11 +128,6 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   <a href="https://arxiv.org/abs/2403.07262" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Plankson/A2PO" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
-- **Unified Mask Graph Modeling for Incomplete Tabular Learning**  \\
-  Na Yu, Tongya Zheng, Kaixuan Chen, **<u>Shunyu Liu</u>**, Mingli Song.\\
-  International Conference on Neural Information Processing (**ICONIP**), 2024.
-
-
 - **Learning a Mini-batch Graph Transformer via Two-stage Interaction Augmentation**  \\
   Wenda Li, Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongya Zheng, Wenjie Huang, Mingli Song.\\
   European Conference on Artificial Intelligence (**ECAI**), 2024. \\
@@ -107,7 +136,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 - **Simple Graph Condensation**  \\
   Zhenbang Xiao, Yu Wang, **<u>Shunyu Liu</u>**, Huiqiong Wang, Mingli Song, Tongya Zheng.\\
-  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD**), 2024. \\
+  European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML PKDD**), 2024. \\
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-70344-7_4" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2403.14951" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/BangHonor/SimGC" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 - **Temporal Prototype-Aware Learning for Active Voltage Control on Power Distribution Networks**  \\
@@ -128,11 +157,6 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   <a href="https://www.ijcai.org/proceedings/2024/94" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2406.08829" target="_blank" style="text-decoration: none">\[arXiv\]</a>
 
 
-- **Multi-Channel Graph Fusion Representation for Tabular Data Imputation**  \\
-  Na Yu, Ke Xu, Kaixuan Chen, **<u>Shunyu Liu</u>**, Tongya Zheng, Mingli Song. \\
-  International Joint Conference on Neural Networks (**IJCNN**), 2024.\\
-  <a href="https://ieeexplore.ieee.org/document/10651425" target="_blank" style="text-decoration: none">\[Paper\]</a> 
-
 
 - **COLA: Cross-city Mobility Transformer for Human Trajectory Simulation**  \\
   Yu Wang, Tongya Zheng, Yuxuan Liang, **<u>Shunyu Liu</u>**, Mingli Song. \\
@@ -144,12 +168,6 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   Jiangtao Zhang, **<u>Shunyu Liu</u>**, Jie Song, Tongtian Zhu, Zhengqi Xu, Mingli Song. \\
   Advances in Neural Information Processing Systems (**NeurIPS**), 2023.\\
   <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/5b4b967d4222d87fa5b28b6ec7144058-Abstract-Conference.html" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2306.07684" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Ardcy/Lookaround" target="_blank" style="text-decoration: none">\[Code\]</a>
-
-
-- **Attribution Guided Layerwise Knowledge Amalgamation from Graph Neural Networks**  \\
-  Yunzhi Hao, Yu Wang, **<u>Shunyu Liu</u>**, Tongya Zheng, Xingen Wang, Xinyu Wang, Mingli Song, Wenqi Huang, Chun Chen.\\
-  International Conference on Neural Information Processing (**ICONIP**), 2023. \\
-  <a href="https://www.springerprofessional.de/attribution-guided-layerwise-knowledge-amalgamation-from-graph-n/26298874" target="_blank" style="text-decoration: none">\[Paper\]</a>
 
 
 - **Adversarial Erasing with Pruned Elements: Towards Better Graph Lottery Ticket**  \\
@@ -164,12 +182,6 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   <a href="https://dl.acm.org/doi/abs/10.1145/3580305.3599388" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2305.19903" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/chenchkx/SuperNorm" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
-- **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition**  \\
-  **<u>Shunyu Liu$^\dagger$</u>**, Yihe Zhou$^\dagger$, Jie Song$^✉️$, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
-  AAAI Conference on Artificial Intelligence (**AAAI**), 2023, **Oral**. \\
-  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26370" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a>
-
-
 - **Message-passing Selection: Towards Interpretable GNNs for Graph Classification**  \\
   Wenda Li, Kaixuan Chen, **<u>Shunyu Liu</u>**, Wenjie Huang, Haofei Zhang, Yingjie Tian, Yun Su, Mingli Song.\\
   International Conference on Learning Representations (**ICLR**) Tiny Paper, 2023. \\
@@ -177,29 +189,14 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 
-- **Distribution-Aware Graph Representation Learning for Transient Stability Assessment of Power System** \\
-  Kaixuan Chen, **<u>Shunyu Liu</u>**, Na Yu, Rong Yan, Quan Zhang, Jie Song, Zunlei Feng, Mingli Song.\\
-  International Joint Conference on Neural Networks (**IJCNN**), 2022, **Oral**. \\
-  <a href="https://ieeexplore.ieee.org/abstract/document/9892854/" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2205.06576" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/chenchkx/DKEPool-TSA" target="_blank" style="text-decoration: none">\[Code\]</a> 
+
+- **Contrastive Identity-Aware Learning for Multi-Agent Value Decomposition**  \\
+  **<u>Shunyu Liu$^\dagger$</u>**, Yihe Zhou$^\dagger$, Jie Song$^✉️$, Tongya Zheng, Kaixuan Chen, Tongtian Zhu, Zunlei Feng, Mingli Song.\\
+  AAAI Conference on Artificial Intelligence (**AAAI**), 2023, **Oral**. \\
+  <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26370" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2211.12712" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/liushunyu/CIA" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
 
-
-
-
-- **Imbalanced Sample Generation and Evaluation for Power System Transient Stability Using CTGAN** \\
-  Gengshi Han, **<u>Shunyu Liu</u>**, Kaixuan Chen, Na Yu, Zunlei Feng, Mingli Song.\\
-  International Conference on Intelligent Computing and Optimization (**ICO**), 2021.\\
-  <a href="https://link.springer.com/chapter/10.1007/978-3-030-93247-3_55" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2112.08836" target="_blank" style="text-decoration: none">\[arXiv\]</a> 
-
-
-
-
-
-- **The Recognition of Driving Action Based on EEG Signals Using Wavelet-CSP Algorithm**  \\
-  Jinxin Lin, **<u>Shunyu Liu</u>**, Gan Huang, Zhiguo Zhang, Kai Huang.\\
-  IEEE International Conference on Digital Signal Processing (**DSP**), 2018. \\
-  <a href="https://ieeexplore.ieee.org/abstract/document/8631540/" target="_blank" style="text-decoration: none">\[Paper\]</a> 
 
 
 
@@ -207,37 +204,17 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 ## Preprint
 ---
 
+- **Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search**  \\
+  Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, **<u>Shunyu Liu</u>**, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao.\\
+  arXiv preprint arXiv:2407.15325, 2024. \\
+  <a href="https://arxiv.org/abs/2412.18319" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/HJYao00/Mulberry" target="_blank" style="text-decoration: none">\[Code\]</a>
+
+
 
 - **Odyssey: Empowering Minecraft Agents with Open-World Skills**  \\
   **<u>Shunyu Liu$^\dagger$</u>**, Yaoru Li$^\dagger$, Kongcheng Zhang$^\dagger$, Zhenyu Cui$^\dagger$, Wenkai Fang$^\dagger$, Yuxuan Zheng, Tongya Zheng, Mingli Song$^✉️$.\\
   arXiv preprint arXiv:2407.15325, 2024. \\
   <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a>
-
-
-
-
-- **Disentangled Condensation for Large-scale Graphs**  \\
-  Zhenbang Xiao, **<u>Shunyu Liu</u>**, Yu Wang, Tongya Zheng, Mingli Song.\\
-  arXiv preprint arXiv:2401.12231, 2024.\\
-  <a href="https://arxiv.org/abs/2401.12231" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/BangHonor/DisCo" target="_blank" style="text-decoration: none">\[Code\]</a> 
-
-
-
-- **Curricular Subgoals for Inverse Reinforcement Learning**  \\
-  **<u>Shunyu Liu$^\dagger$</u>**, Yunpeng Qing$^\dagger$, Shuqi Xu, Hongyan Wu, Jiangtao Zhang, Jingyuan Cong, Tianhao Chen, Yunfu Liu, Mingli Song$^✉️$.\\
-  arXiv preprint arXiv:2306.08232, 2023.\\
-  <a href="https://arxiv.org/abs/2306.08232" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Plankson/CSIRL" target="_blank" style="text-decoration: none">\[Code\]</a>
-
-
-
-
-
-- **Is Centralized Training with Decentralized Execution Framework Centralized Enough for MARL?** \\
-  Yihe Zhou$^\dagger$, **<u>Shunyu Liu$^\dagger$</u>**, Yunpeng Qing, Kaixuan Chen, Tongya Zheng, Yanhao Huang, Jie Song, Mingli Song$^✉️$. \\
-  arXiv preprint arXiv:2305.17352, 2023.\\
-  <a href="https://arxiv.org/abs/2305.17352" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zyh1999/CADP" target="_blank" style="text-decoration: none">\[Code\]</a> 
-
-
 
 
 
