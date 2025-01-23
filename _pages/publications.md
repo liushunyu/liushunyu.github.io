@@ -18,7 +18,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 
-- **Utilizing RBC system for taxation policy evaluation: An adaptive interaction framework based on deep reinforcement learning** \\
+- **Utilizing RBC System for Taxation Policy Evaluation: An Adaptive Interaction Framework based on Deep Reinforcement Learning** \\
   Shuang Luo, **<u>Shunyu Liu</u>**, Tianrun Cai, Chao Wu.\\
   Expert Systems with Applications (**ESWA**), 2025. \\
   <a href="https://www.sciencedirect.com/science/article/pii/S0957417424032329" target="_blank" style="text-decoration: none">\[Paper\]</a>
