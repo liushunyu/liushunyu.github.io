@@ -29,13 +29,10 @@ My research interests include **multi-agent learning**, **reinforcement learning
 - [Jan 2025] One paper was accepted by <a href="https://www2025.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2025</a>.
 - [Jan 2025] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979" target="_blank" style="text-decoration: none">IEEE Transactions on Intelligent Transportation Systems</a>.
 - [Dec 2024] One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications</a>.
-- [Dec 2024] One paper was accepted by <a href="https://aamas2025.org/" target="_blank" style="text-decoration: none">AAMAS 2025 Extended Abstract</a>.
 - [Dec 2024] Four papers were accepted by <a href="https://aaai.org/conference/aaai/aaai-25/" target="_blank" style="text-decoration: none">AAAI 2025</a>.
 - [Nov 2024] One paper was accepted by <a href="https://kdd2025.kdd.org/" target="_blank" style="text-decoration: none">KDD 2025 ADS Track</a>.
 - [Sep 2024] One paper was accepted by <a href="https://nips.cc/Conferences/2024" target="_blank" style="text-decoration: none">NeurIPS 2024</a>.
-- [Jul 2024] One paper was accepted by <a href="https://ecai2024.eu/" target="_blank" style="text-decoration: none">ECAI 2024</a>.
 - [May 2024] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
-- [May 2024] One paper was accepted by <a href="https://ecmlpkdd.org/2024/" target="_blank" style="text-decoration: none">ECML PKDD 2024</a>.
 - [May 2024] Two papers were accepted by <a href="https://kdd2024.kdd.org/" target="_blank" style="text-decoration: none">KDD 2024</a>.
 - [May 2024] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" target="_blank" style="text-decoration: none">IEEE Transactions on Pattern Analysis and Machine Intelligence</a>.
 - [Apr 2024] One paper was accepted by <a href="https://ijcai24.org/" target="_blank" style="text-decoration: none">IJCAI 2024</a>.
@@ -43,11 +40,9 @@ My research interests include **multi-agent learning**, **reinforcement learning
 - [Jan 2024] One paper was accepted by <a href="https://www2024.thewebconf.org/" target="_blank" style="text-decoration: none">WWW 2024</a>.
 - [Sep 2023] One paper was accepted by <a href="https://nips.cc/Conferences/2023" target="_blank" style="text-decoration: none">NeurIPS 2023</a>.
 - [Jul 2023] One paper was accepted by <a href="https://www.sciencedirect.com/journal/expert-systems-with-applications" target="_blank" style="text-decoration: none">Expert Systems With Applications</a>.
-- [Jul 2023] One paper was accepted by <a href="https://ecai2023.eu/" target="_blank" style="text-decoration: none">ECAI 2023</a>.
 - [Jul 2023] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59" target="_blank" style="text-decoration: none">IEEE Transactions on Power Systems</a>.
 - [Jul 2023] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021" target="_blank" style="text-decoration: none">IEEE Transactions on Systems, Man and Cybernetics: Systems</a>.
 - [May 2023] One paper was accepted by <a href="https://kdd.org/kdd2023/" target="_blank" style="text-decoration: none">KDD 2023</a>.
-- [Apr 2023] One paper was accepted by <a href="https://iclr.cc/Conferences/2023" target="_blank" style="text-decoration: none">ICLR 2023 Tiny Paper</a>.
 - [Nov 2022] One paper was accepted by <a href="https://aaai-23.aaai.org/" target="_blank" style="text-decoration: none">AAAI 2023</a>.
 - [Sep 2022] One paper was accepted by <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target="_blank" style="text-decoration: none">IEEE Transactions on Knowledge and Data Engineering</a>.
 
@@ -132,6 +127,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
   - Ranked 5th in "L2RPN Challenge - Energies of the Future and Carbon Neutrality", WCCI, 2022.
   - Ranked 3rd in "Power System Dispatching AI Application Competition", China Southern Power Grid, 2022.
   - Ranked 3rd in "Power System Dispatching AI Application Competition", China Southern Power Grid, 2023.
+  - Ranked 2nd in "China Innovation and Entrepreneurship Competition Innovation Challenge (Zhejiang)", 2024
 
 <br>
 
@@ -144,12 +140,11 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 ### Journal Reviewer
   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
   - Information Sciences (INS)
-  - Machine Learning (ML)
   - Autonomous Agents and Multi-Agent Systems (AAMAS)
   - International Journal of Electrical Power and Energy Systems (IJEPES)
 
 ### Conference Reviewer
-  - ICLR 2025, KDD 2025, NeurIPS 2024, KDD 2024, ICLR 2023, ECAI 2023
+  - ICML 2025, ICLR 2025, KDD 2025, NeurIPS 2024, KDD 2024, ICLR 2023, ECAI 2023
 
 
 

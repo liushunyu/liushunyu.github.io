@@ -14,7 +14,7 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 - **Curricular Subgoals for Inverse Reinforcement Learning**  \\
   **<u>Shunyu Liu$^\dagger$</u>**, Yunpeng Qing$^\dagger$, Shuqi Xu, Hongyan Wu, Jiangtao Zhang, Jingyuan Cong, Tianhao Chen, Yunfu Liu, Mingli Song$^✉️$.\\
   IEEE Transactions on Intelligent Transportation Systems (**TITS**), 2025.\\
-  <a href="https://arxiv.org/abs/2306.08232" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Plankson/CSIRL" target="_blank" style="text-decoration: none">\[Code\]</a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10858617" target="_blank" style="text-decoration: none">\[Paper\]</a> <a href="https://arxiv.org/abs/2306.08232" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Plankson/CSIRL" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
 
