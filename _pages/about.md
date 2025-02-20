@@ -63,13 +63,13 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 - **Reasoning with Reinforced Functional Token Tuning**  \\
   Kongcheng Zhang, Qi Yao, Baisheng Lai, Jiaxing Huang, Wenkai Fang, Dacheng Tao, Mingli Song, **<u>Shunyu Liu$^✉️$</u>**.\\
   arXiv preprint arXiv:2502.13389, 2025.\\
-  <a href="https://arxiv.org/abs/2502.13389" target="_blank" style="text-decoration: none">\[arXiv\]</a>
+  <a href="https://arxiv.org/abs/2502.13389" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/sastpg/RFTT" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 
 - **From GNNs to Trees: Multi-Granular Interpretability for Graph Neural Networks**  \\
   Jie Yang, Yuwen Wang, Kaixuan Chen, Tongya Zheng, Yihe Zhou, Zhenbang Xiao, Ji Cao, Mingli Song, **<u>Shunyu Liu$^✉️$</u>**.\\
   International Conference on Learning Representations (**ICLR**), 2025.\\
-  <a href="https://openreview.net/forum?id=KEUPk0wXXe" target="_blank" style="text-decoration: none">\[Paper\]</a> 
+  <a href="https://openreview.net/forum?id=KEUPk0wXXe" target="_blank" style="text-decoration: none">\[Paper\]</a>  <a href="https://github.com/dutyj2020/TIF" target="_blank" style="text-decoration: none">\[Code\]</a>
 
 - **Cooperative Policy Agreement: Learning Diverse Policy for Offline MARL**  \\
   Yihe Zhou, Yuxuan Zheng, Yue Hu, Kaixuan Chen, Tongya Zheng, Jie Song, Mingli Song, **<u>Shunyu Liu$^✉️$</u>**.\\
