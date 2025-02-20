@@ -8,6 +8,37 @@ author_profile: false
 For the most up-to-date list, please visit my <a href="https://scholar.google.com/citations?user=4U-X6d4AAAAJ&hl=en" target="_blank" style="text-decoration: none">Google Scholar</a>.\\
 $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding author.
 
+
+
+
+
+## Preprint
+---
+
+- **Reasoning with Reinforced Functional Token Tuning**  \\
+  Kongcheng Zhang, Qi Yao, Baisheng Lai, Jiaxing Huang, Wenkai Fang, Dacheng Tao, Mingli Song, **<u>Shunyu Liu$^✉️$</u>**.\\
+  arXiv preprint arXiv:2502.13389, 2025.\\
+  <a href="https://arxiv.org/abs/2502.13389" target="_blank" style="text-decoration: none">\[arXiv\]</a>
+
+
+- **Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search**  \\
+  Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, **<u>Shunyu Liu</u>**, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao.\\
+  arXiv preprint arXiv:2407.15325, 2024. \\
+  <a href="https://arxiv.org/abs/2412.18319" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/HJYao00/Mulberry" target="_blank" style="text-decoration: none">\[Code\]</a>
+
+- **Odyssey: Empowering Minecraft Agents with Open-World Skills**  \\
+  **<u>Shunyu Liu$^\dagger$</u>**, Yaoru Li$^\dagger$, Kongcheng Zhang$^\dagger$, Zhenyu Cui$^\dagger$, Wenkai Fang$^\dagger$, Yuxuan Zheng, Tongya Zheng, Mingli Song$^✉️$.\\
+  arXiv preprint arXiv:2407.15325, 2024. \\
+  <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a>
+
+
+- **A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges** \\
+  Yunpeng Qing, **<u>Shunyu Liu</u>**, Jie Song, Huiqiong Wang, Mingli Song. \\
+  arXiv preprint arXiv:2211.06665, 2022. \\
+  <a href="https://arxiv.org/abs/2211.06665" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Plankson/awesome-explainable-reinforcement-learning" target="_blank" style="text-decoration: none">\[Code\]</a> 
+
+
+
 ## Journal
 ---
 
@@ -199,30 +230,6 @@ $^\dagger$ denotes equal contribution, and $^✉️$ denotes the corresponding a
 
 
 
-
-
-## Preprint
----
-
-- **Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search**  \\
-  Huanjin Yao, Jiaxing Huang, Wenhao Wu, Jingyi Zhang, Yibo Wang, **<u>Shunyu Liu</u>**, Yingjie Wang, Yuxin Song, Haocheng Feng, Li Shen, Dacheng Tao.\\
-  arXiv preprint arXiv:2407.15325, 2024. \\
-  <a href="https://arxiv.org/abs/2412.18319" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/HJYao00/Mulberry" target="_blank" style="text-decoration: none">\[Code\]</a>
-
-
-
-- **Odyssey: Empowering Minecraft Agents with Open-World Skills**  \\
-  **<u>Shunyu Liu$^\dagger$</u>**, Yaoru Li$^\dagger$, Kongcheng Zhang$^\dagger$, Zhenyu Cui$^\dagger$, Wenkai Fang$^\dagger$, Yuxuan Zheng, Tongya Zheng, Mingli Song$^✉️$.\\
-  arXiv preprint arXiv:2407.15325, 2024. \\
-  <a href="https://arxiv.org/abs/2407.15325" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/zju-vipa/Odyssey" target="_blank" style="text-decoration: none">\[Code\]</a>
-
-
-
-
-- **A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges** \\
-  Yunpeng Qing, **<u>Shunyu Liu</u>**, Jie Song, Huiqiong Wang, Mingli Song. \\
-  arXiv preprint arXiv:2211.06665, 2022. \\
-  <a href="https://arxiv.org/abs/2211.06665" target="_blank" style="text-decoration: none">\[arXiv\]</a> <a href="https://github.com/Plankson/awesome-explainable-reinforcement-learning" target="_blank" style="text-decoration: none">\[Code\]</a> 
 
   
 
