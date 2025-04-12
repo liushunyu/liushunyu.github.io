@@ -413,8 +413,8 @@ table.imgtable, table.imgtable td {
 .publication_image {
 	box-shadow: 0px 0px 0px 1.5px rgba(0,0,0,0.18);
 	border-radius: 6px;
-	width: 170px;
-	min-width: 170px;
+	width: 160px;
+	min-width: 160px;
 	height: 72px;
 	margin-right: 2px;
 	display: flex;
